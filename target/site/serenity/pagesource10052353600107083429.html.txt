@@ -1,0 +1,1329 @@
+<html class="no-js ng-scope" lang="es" ng-app="oficinaApp"><head><meta http-equiv="origin-trial" content="Az520Inasey3TAyqLyojQa8MnmCALSEU29yQFW8dePZ7xQTvSt73pHazLFTK5f7SyLUJSo2uKLesEtEa9aUYcgMAAACPeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZyIsImV4cGlyeSI6MTcyNTQwNzk5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="simulador de credito, simulador de credito banco de occidente, solicitud de credito banco de occidente, solicitud de crédito, simulador de crédito, simulador de crédito banco de occidente, solicitud de crédito banco de occidente, solicitud de crédito, simulador de credito occiauto, occiauto, credito para vehiculo, carros usados, carros nuevos, proyectos de vivienda, simulador credito hipotecario, leasing habitacional, comprar vivienda, comprar vivienda nueva, comprar vivienda usada, prestamos de dinero, credito de libre inversion, libranza, solicitud de credito online, simulador tarjeta de credito, solicitar tarjeta de credito, seguros para vehiculo, seguro para motos">
+    <meta name="description" content="Con los Simuladores de Crédito de Vivienda, Libre inversión, Libranza, Tarjeta de Crédito y Seguros, calcula el valor de tus cuotas ¡Solicita productos!">
+    <!--meta http-equiv="cache-control" content="no-cache, must-revalidate" /-->
+    <meta http-equiv="last-modified" content="0">
+    <meta http-equiv="expires" content="01-mar-18 00:00:01 gmt">
+  <!--  <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' http://www.google.com"> -->
+   <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' http://* 'unsafe-inline'; script-src 'self' http://* 'unsafe-inline' 'unsafe-eval'">
+    <meta name="robots" content="all | index | follow">
+    <meta name="author" content="Banco de Occidente">
+    <meta name="google-site-verification" content="72Kj0YbXZfF7K14dlt9G3I25Au4G6h-lLPoVhSF5lKY">
+    <title>Simulador de crédito en línea | Banco de Occidente</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/local.css">
+    <link rel="stylesheet" type="text/css" href="css/local.css">
+    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link type="text/plain" rel="author" href="humans.txt">
+
+
+    <style>
+        body{padding: 0;}
+        .ac-container { -webkit-backface-visibility: hidden; backface-visibility: hidden; -webkit-transform: translate3d(0, 0, 0); -ms-transform: translate3d(0, 0, 0); transform: translate3d(0, 0, 0); z-index: 999; top: 27px; }
+        .ac-container .ac-menu { border: 1px solid #ccc; list-style: none; padding: 0; background-color: white; box-shadow: 0 3px 7px 0px rgba(0, 0, 0, 0.15); margin: 0; font-size: 14px; line-height: 14px; }
+        .ac-container .ac-menu .ac-menu-item { border-bottom: 1px dotted #ccc; margin: 0; min-height: 30px; line-height: 28px !important; }
+        .ac-container .ac-menu .ac-menu-item:last-child { border-bottom :0; }
+        .ac-container .ac-menu .ac-menu-item:hover { background-color: rgba(87, 174, 219, 0.2); }
+        .ac-container .ac-menu a { padding-left: 5px; display: block; color: inherit; text-decoration: none; }
+        .ac-container .ac-menu .ac-state-focus { outline: none; background-color: rgba(87, 174, 219, 0.1); }
+        .messages { color: #E74C3C; font-size: 12px; text-align: center !important; position: relative; margin: 0 auto; padding: 0; }
+        form.ng-submitted input.ng-invalid { border-color: #E74C3C; }
+        form input.ng-invalid.ng-touched { border-color: #E74C3C; }
+        form input.ng-valid.ng-touched { border-color: #8ab54e; }
+        /*DEFAULT STYLES FOR THE BROWSER MESSAGE*/
+        .buorg{position: relative;margin: 0;padding: 30px 10px;background-color: #F9F9F9;font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;width:calc(100% - 20px);width: 98%;border-bottom: solid 2px #CCC;display: block;background-color: #4070B7;color: #FFF;display: none;height: 150px;min-height: 150px;}
+        .buorg .column6{display: inline-block;width: 49%;margin: 0;padding: 0;}
+        .buorg a{color: #f5f5f5;border: none;}
+        .buorgclose {position: absolute;float: right;top: 0;right: 0;font-weight: bold;font-size: 24px;font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;padding: 0;margin-right: 5px;margin-top: 2;cursor: pointer;}
+        .buorgclose:hover{color: red;}
+        .buorg .iconos{width: 100%;}
+        .buorg .iconos a{display: inline-block;width: 30%;text-align: center;}
+        .simulador,.productos,.beneficios,.contacto,.piepagina,.container{display: none;}
+        .hide { display: none; }
+        /*Estilos modal Beneficios*/
+        .modal { display: none;  position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgb(0,0,0); background-color: rgba(0,0,0,0.4);}
+        .modal-content { background-color: #fefefe; margin: 5% auto; border: 1px solid #888; height: 600px; overflow-y: scroll; width: 75%;}
+        .modal-content .cerrar { display: block; padding-right: 15px; position: absolute; top:0; right: 0;}
+        .modal-content .cerrar span.closex { color: #aaa; font-size: 35px; font-weight: bold; -webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 50%; padding: 5px 15px; background-color: rgb(255 255 255 / 0.9); cursor: pointer;}
+        .modal-content .contMiniBanner { width: 100%; display: block; position: relative; }
+        .modal-content .contMiniBanner .imgBanner { height: 250px; background-position: 50% 50%!important; background-repeat: no-repeat!important; background-size: cover!important;}
+        .modal-content .contMiniBanner h1 { position: absolute; display: block; z-index: 2; top: 37%; left: 7%; color: #fff; font-size: 28px;}
+        .modal-content .contMiniBanner .degradado { position: absolute; left: 0; top: 0; width: 100%; height: 100%; background: #112c46; background: -moz-linear-gradient(left, #002549 0%, rgba(0,37,73,0) 100%); background: -webkit-gradient(left top, right top, color-stop(0%, #002549), color-stop(100%, rgba(0,37,73,0))); background: -webkit-linear-gradient(left, #002549 0%, rgba(0,37,73,0) 100%); background: -o-linear-gradient(left, #002549 0%, rgba(0,37,73,0) 100%);
+            background: -ms-linear-gradient(left, #002549 0%, rgba(0,37,73,0) 100%); background: linear-gradient(to right, #002549 0%, rgba(0,37,73,0) 100%); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#112c46', endColorstr='#112c46', GradientType=1);}
+        .modal-content .contenido { width: 100%; padding: 20px 30px; text-align: left; color: #112c46; font-family: "Helvetica";}
+        .modal-content .contenido ul { margin-left:3%;}
+        .modal-content .contenido ul li { margin-bottom: 5px; }
+        .modal-content .contenido ul li::before {content: "•"; display: block; position: relative; font-size: 18px; max-width: 0px; max-height: 0px; left: -1.3em; top: -4px; color: #008ACC;}
+        .modal-content .contenido h3 { margin-top: 20px;}
+         @media screen and (max-width: 768px){
+            .modal-content { background-color: #fefefe; margin: 8% auto; border: 1px solid #888; height: 660px; overflow-y: scroll; width: 75%;}
+            .modal-content .contMiniBanner .imgBanner { height: 210px; background-position: 75% 50%!important;}
+        }
+        @media screen and (max-width: 650px){ 
+            .modal-content { height: 590px; margin: 15% auto; width: 90%;}
+        }
+        @media screen and (max-width: 500px){
+            .modal-content .contMiniBanner h1 { font-size: 20px;}
+            .modal-content .contMiniBanner .imgBanner { height: 190px; background-position: 87% 50%!important;}
+        }
+        /*terminan Estilos modal Beneficios*/
+        @supports (display: -webkit-flex) or (display: -moz-flex) or (display: flex) {
+            /*ESPECIFIC STYLES FOR W3C COMPLIANT WEB BROWSERS*/
+            body{padding: 45px 0 0 0;}
+            .buorg{position: relative;background-color: #f5f5f5;min-height: 80px;width: 100%;top: 0px;left: 0px;border-bottom: 1px solid #CCC;display: inline-block;text-align: left;font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;color: #4070B7; font-size: 12px;display: none;border-bottom: solid 2px #CCC;}
+            .buorg h2{font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;font-size: 25px;font-weight: 300;color: #1B2740;}
+            .buorg div {padding: 5px 50px 2px 40px;}
+            .buorg .iconos{display: inline-block;width: 100%;}
+            .buorg .iconos a{display: inline-block;width: 30%;text-align: center;border: none;}
+            .buorgclose {position: absolute;float: right;height: 20px;width: 12px;font-weight: bold;font-size: 14px;padding: 0;margin-right: 5px;margin-top: 2;cursor: pointer;}
+            .buorgclose svg{-webkit-transform: rotate(0deg) scale(1);-ms-transform: rotate(0deg) scale(1);transform: rotate(0deg) scale(1);-webkit-transform-origin: center center;-ms-transform-origin: center center;transform-origin: center center;fill: #000;}
+            .buorgclose svg:hover{-webkit-transform: rotate(180deg) scale(0.9);-ms-transform: rotate(180deg) scale(0.9);transform: rotate(180deg) scale(0.9);fill: #333;-webkit-transition: all 0.3s;transition: all 0.3s;}
+            .texto { float: left; }
+            .texto p { margin-top: -15px; }
+            .iconos { float: right; display: inline-block; }
+            .iconos div { float: left; padding-left: 30px; }
+            span.valor-cuota-vehiculo { color: rgba(255, 255, 255, 0.9); font-size: 1.5em; line-height: 36px; }
+            .hide { display: none; }
+            .highlight { background-color: rgba(240, 173, 78, 0.2); font-weight: bold !important; }
+            .simulador,.productos,.beneficios,.contacto,.piepagina,.container{display: -webkit-box;display: box;display: -webkit-flex;display: -moz-flex;display: -ms-flexbox;}
+          }
+
+    </style>
+<script src="https://connect.facebook.net/signals/config/1651016381807242?v=2.9.127&amp;r=stable&amp;domain=www.bancodeoccidente.com.co" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://dc.oracleinfinity.io/iw64uzydss/wtid.js?callback=ORA.analytics.dcsRef.dcsGetIdCallback"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/uEf7E1417z6GNSkRx7AyL8K8/recaptcha__es.js" crossorigin="anonymous" integrity="sha384-kFIJPpjJc8BKcDtuQ8lzgNMnhdkNwsGGBsve24MgCR+YO5o6BTjsk/q4nauRiEkV"></script><script async="true" type="text/javascript" src="https://static.ads-twitter.com/uwt.js"></script><script async="true" type="text/javascript" src="https://static.hotjar.com/c/hotjar-867930.js?sv=7"></script><script async="true" type="text/javascript" src="https://www.google-analytics.com/analytics.js"></script><script gtm="GTM-NB8RDT" async="true" type="text/javascript" src="https://www.google-analytics.com/gtm/optimize.js?id=GTM-KGHVPRR"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NB8RDT"></script><script>NS_CSM_td=437403853;NS_CSM_pd=275116664;NS_CSM_u="/clm10";NS_CSM_col="af_collector_logstream";</script><script type="text/javascript">function sendTimingInfoInit(){setTimeout(sendTimingInfo,0)}function sendTimingInfo(){var wp=window.performance;if(wp){var c1,c2,t;c1=wp.timing;if(c1){var cm={};cm.ns=c1.navigationStart;if((t=c1.unloadEventStart)>0)cm.us=t;if((t=c1.unloadEventEnd)>0)cm.ue=t;if((t=c1.redirectStart)>0)cm.rs=t;if((t=c1.redirectEnd)>0)cm.re=t;cm.fs=c1.fetchStart;cm.dls=c1.domainLookupStart;cm.dle=c1.domainLookupEnd;cm.cs=c1.connectStart;cm.ce=c1.connectEnd;if((t=c1.secureConnectionStart)>0)cm.scs=t;cm.rqs=c1.requestStart;cm.rss=c1.responseStart;cm.rse=c1.responseEnd;cm.dl=c1.domLoading;cm.di=c1.domInteractive;cm.dcls=c1.domContentLoadedEventStart;cm.dcle=c1.domContentLoadedEventEnd;cm.dc=c1.domComplete;if((t=c1.loadEventStart)>0)cm.ls=t;if((t=c1.loadEventEnd)>0)cm.le=t;cm.tid=NS_CSM_td;cm.pid=NS_CSM_pd;cm.ac=NS_CSM_col;var xhttp=new XMLHttpRequest();if(xhttp){var JSON=JSON||{};JSON.stringify=JSON.stringify||function(ob){var t=typeof(ob);if(t!="object"||ob===null){if(t=="string")ob='"'+ob+'"';return String(ob);}else{var n,v,json=[],arr=(ob&&ob.constructor==Array);for(n in ob){v=ob[n];t=typeof(v);if(t=="string")v='"'+v+'"';else if(t=="object"&&v!==null)v=JSON.stringify(v);json.push((arr?"":'"'+n+'":')+String(v));}return(arr?"[":"{")+String(json)+(arr?"]":"}");}};xhttp.open("POST",NS_CSM_u,true);xhttp.send(JSON.stringify(cm));}}}}if(window.addEventListener)window.addEventListener("load",sendTimingInfoInit,false);else if(window.attachEvent)window.attachEvent("onload",sendTimingInfoInit);else window.onload=sendTimingInfoInit;</script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script async="true" type="text/javascript" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/944475590/?random=1694733219384&amp;cv=11&amp;fst=1694733219384&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45He39d0&amp;u_w=1280&amp;u_h=720&amp;url=https%3A%2F%2Fwww.bancodeoccidente.com.co%2Fsolicitarcredito%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Simulador%20de%20cr%C3%A9dito%20en%20l%C3%ADnea%20%7C%20Banco%20de%20Occidente&amp;auid=1837032281.1694733219&amp;uaa=x86&amp;uab=64&amp;uafvl=Google%2520Chrome%3B117.0.5938.63%7CNot%253BA%253DBrand%3B8.0.0.0%7CChromium%3B117.0.5938.63&amp;uamb=0&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;rfmt=3&amp;fmt=4"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script async="" src="https://script.hotjar.com/modules.b1d0ab810250ab067071.js" charset="utf-8"></script><script type="text/javascript" src="https://c.oracleinfinity.io/acs/common/js/1.3.34/common.js" async="true" defer="true"></script><script type="text/javascript" src="https://c.oracleinfinity.io/acs/account/iw64uzydss/js/main/analytics-default/analytics.js" async="true" defer="true"></script></head>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="50" style="overflow-y: visible;">
+
+
+     <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NB8RDT"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NB8RDT');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <div class="overlay-menu" id="overlay-menu" style="display: none;"></div>
+    <iframe height="0" width="0" style="display: none; visibility: hidden;" src="https://8702542.fls.doubleclick.net/activityi;src=8702542;type=invmedia;cat=remar0;ord=5919263123606;auiddc=1837032281.1694733219;gtm=45He39d0;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B117.0.5938.63%7CNot%253BA%253DBrand%3B8.0.0.0%7CChromium%3B117.0.5938.63;uamb=0;uam=;uap=Windows;uapv=15.0.0;uaw=0;epver=2;~oref=https%3A%2F%2Fwww.bancodeoccidente.com.co%2Fsolicitarcredito%2F?"></iframe><main ng-controller="lookAndFeelController as laf" class="ng-scope">
+        <!--MENSAJE DE VALIDACIÓN DE VERSIÓN DEL NAVEGADOR-->
+        <div id="buorg" class="buorg" style="display: none;">
+            <div class="column6">
+                <div class="texto"><h2>Su Navegador está desactualizado</h2>
+                    <p>Le recomendamos actualizarlo para una mejor visualización de la página. </p>
+                </div>
+            </div>
+            <div class="column6">
+                <div class="iconos">
+                    <a href="https://www.google.com/chrome/browser/desktop/" target="_blank" rel="noopener noreferrer"><img src="imagenes/navegador/browser_chrome.png" width="60" height="60"></a>
+                    <a href="https://www.mozilla.org/es-ES/firefox/new/" target="_blank" rel="noopener noreferrer"><img src="imagenes/navegador/browser_firefox.png" width="60" height="60"></a>
+                    <a href="http://windows.microsoft.com/es-CO/internet-explorer/download-ie" target="_blank" rel="noopener noreferrer"><img src="imagenes/navegador/browser_ie.png" width="60" height="60"></a>
+                </div>
+            </div>
+            <div id="buorgclose" class="buorgclose"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path d="M38 12.8L35.2 10 24 21.2 12.8 10 10 12.8 21.2 24 10 35.2 12.8 38 24 26.8 35.2 38 38 35.2 26.8 24 38 12.8z"></path>X</svg></div>
+        </div>
+        <!--FIN MENSAJE DE VALIDACIÓN DE VERSIÓN DEL NAVEGADOR-->
+
+        <!--INICIO HEADER-->
+        <nav>
+            <div class="brand">
+                <a class="navbar-brand" href="#">
+                    <svg class="logo">
+                        <use xlink:href="#logobancooccidente"></use>
+                    </svg>
+                </a>
+            </div>
+            <div class="trigger" id="toggle">
+                <a href="">
+                    <svg>
+                        <use xlink:href="#toggler"></use>
+                    </svg>
+                </a>
+            </div>
+            <div id="myNavbar" style="display:none">
+                <ul>
+                    <li class="enlacemenu">
+                        <a href="#simulador" du-smooth-scroll="" du-scrollspy="" gaelement="click-Header" gatype="Simulador-de-Credito" class="active">
+                            <svg>
+                                <use xlink:href="#simuladorcredito"></use>
+                            </svg>
+                            Simulador de crédito.
+                        </a>
+                    </li>
+                    <li class="enlacemenu">
+                        <a href="#productos" du-smooth-scroll="" du-scrollspy="" gaelement="click-Header" gatype="Solicita-tu-Credito">
+                            <svg>
+                                <use xlink:href="#solicitudproductos"></use>
+                            </svg>
+                            Solicita tu crédito
+                        </a>
+                    </li>
+                    <li class="enlacemenu">
+                        <a href="#beneficios" du-smooth-scroll="" du-scrollspy="" gaelement="click-Header" gatype="Beneficios">
+                            <svg>
+                                <use xlink:href="#beneficiossolicitud"></use>
+                            </svg>
+                            Beneficios</a>
+                    </li>
+                    <!-- <li class="enlacemenu">
+                        <a href="#contacto" du-smooth-scroll du-scrollspy gaElement="click-Header" gaType="Contactanos">
+                            <svg>
+                                <use xlink:href="#contactanos"></use>
+                            </svg>
+                            Contáctanos</a>
+                    </li> -->
+                </ul>
+            </div>
+        </nav>
+
+        <!--redes sociales-->
+        <div class="redes-sociales">
+            <ul>
+                <li>
+                    <a title="Youtube" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC7YOu9z6AfN8Hs9wEqKf5AQ?sub_confirmation=1">
+                        <svg>
+                            <use xlink:href="#youtube"></use>
+                        </svg>
+                    </a></li>
+                <li>
+                    <a title="Linkedin" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/banco-de-occidente?trk=biz-companies-cym">
+                        <svg>
+                            <use xlink:href="#linkedin"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a title="Twitter" target="_blank" rel="noopener noreferrer" href="https://twitter.com/Bco_Occidente">
+                        <svg>
+                            <use xlink:href="#twitter"></use>
+                        </svg>
+                    </a>
+                </li>
+                <li>
+                    <a title="Facebook" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/BcoOccidente">
+                        <svg>
+                            <use xlink:href="#facebook"></use>
+                        </svg>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <!--FIN HEADER-->
+
+        <!--pantalla simulador-->
+        <section id="simulador" class="simulador simLibranza">
+            <div class="container">
+                <div class="row wrap">
+                    <!--CONTENIDO SIMULADOR CREDITO-->
+                    <h2 class="sr-only">Simulador de crédito</h2>
+                    <div class="tabs">
+                        <ul class="tabs_simulador">
+							<li role="button" ui-sref="irSimuladorVivienda" ui-sref-active="tab_activo" class="" href="#/simuladorVivienda">
+								<a ng-click="laf.irEstado('irSimuladorVivienda')" gaelement="click-Vivienda" gatype="Simulador-Vivienda">
+									<div>
+										<span> Vivienda </span>
+									</div>
+								</a>
+							</li>
+                            <li role="button" ui-sref="irSimuladorVehiculo" ui-sref-active="tab_activo" href="#/simuladorVehiculo" target="_blank" class="">
+                                <a href="https://www.bancodeoccidente.com.co/occiauto/autogestionado?utm_source=Web&amp;utm_medium=OficinaVirtual&amp;utm_campaign=BtnOficinaVirtual" target="_blank" gaelement="click-Vehiculo" gatype="Simulador-Vehiculo" onclick="dataLayer.push({'event': 'eventOcc','eventAction': 'SimuladorVehiculosIrAutoges','eventCategory': 'OficinaVirtualVehiculos','eventLabel': 'SimuladorVehiculosIrAutoges'});">
+                                    <div>
+                                        <span ng-click="laf.reload()"> Vehículo </span>
+                                    </div>
+                                </a>
+                            </li>
+							<li role="button" ui-sref="irSimuladorCreditoConsumo" ui-sref-active="tab_activo" class="" href="#/simuladorCreditoConsumo">
+								<a ng-click="laf.irEstado('irSimuladorCreditoConsumo')" gaelement="click-CConsumo" gatype="Simulador-CConsumo">
+                                
+                                <!-- <a id="solicitalo" du-smooth-scroll="productos" onclick="dataLayer.push({'event': 'eventOcc','eventAction': 'SimuladorLInversionIrSolicitud','eventCategory': 'OficinaVirtualLInversion','eventLabel': 'SimuladorLInversionIrSolicitudBtn1'});"> -->
+                                    <div>
+                                        <span> Libre Inversión</span>
+                                    </div>
+                                    
+								</a>
+							</li>
+							<li role="button" ui-sref="irSimuladorLibranza" ui-sref-active="tab_activo" class="tab_activo" href="#/simuladorLibranza">
+								<a ng-click="laf.irEstado('irSimuladorLibranza')" gaelement="click-Libranza" gatype="Simulador-Libranza">
+									<div>
+										<span> Libranza </span>
+									</div>
+								</a>
+							</li>
+							<li role="button" ui-sref="irSimuladorTCredito" ui-sref-active="tab_activo" class="" href="#/simuladorTarjetaCredito">
+								<a ng-click="laf.irEstado('irSimuladorTCredito')" gaelement="click-TCredito" gatype="Simulador-TCredito">
+									<div>
+										<span> Tarjeta de Crédito </span>
+									</div>
+								</a>
+							</li>
+							<li role="button" ui-sref="irSimuladorSeguros" ui-sref-active="tab_activo" class="" href="#/simuladorSeguros">
+								<a ng-click="laf.irEstado('irSimuladorSeguros')" gaelement="click-Seguros" gatype="Simulador-Seguros">
+									<div>
+										<span> Seguros </span>
+									</div>
+								</a>
+							</li>
+						</ul>
+                    </div>
+                    <article>
+                        <div class="overlay-simulador">
+                            <div class="row">
+                                <div class="overlay-body">
+                                  <resolve-loader></resolve-loader>
+                                    <!-- uiView: viewSimulador --><div ui-view="viewSimulador" class="ng-scope" style=""><div class="overlay-heading ng-scope">
+  <div class="formhead__icono formhead__icono--libranza"></div>
+  <h3 class="formhead__title formhead__title--libranza">Simula tu<br><span>Crédito de Libranza</span></h3>
+  <button class="formsim__btnsolic formsim__btnsolic--libranza" id="solicitalo" du-smooth-scroll="productos" onclick="dataLayer.push({'event': 'eventOcc','eventAction': 'SimuladorLibranzaIrSolicitud','eventCategory': 'OficinaVirtualLibranza','eventLabel': 'SimuladorLibranzaIrSolicitudBtn1'});">Solicítalo</button>
+</div>
+<div class="row ng-scope">
+  <div class="divisor__line divisor__line--libranza"></div>
+</div>
+<br class="ng-scope">
+<form name="simuladorLibranzaForm" novalidate="" class="ng-scope ng-valid-maxlength ng-dirty ng-valid-parse ng-valid ng-valid-required" style="">
+  <div class="row">
+    <div class="full">
+      <p class="desc-simulador">El crédito de Libranza tiene la ventaja del descuento de cuota directamente de nómina, previo Convenio entre tu empresa y el Banco. Busca a tu empleador o administrador de pensión en nuestra base de convenios.</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="full">
+      <label for="nombreEmpresaSimulador">Busca tu empresa*</label>
+      <div mass-autocomplete="" class="relative ng-isolate-scope"><span ng-transclude="">
+        <input type="text" ng-model="sl.simulacion.nombreConvenio" ng-change="sl.calcularCuotaMensual()" mass-autocomplete-item="sl.opcionesConvenios" name="convenio" maxlength="150" required="" class="ng-scope ng-isolate-scope ng-valid-maxlength ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required ng-touched" placeholder="Nombre de la Empresa" id="nombreEmpresaSimulador" autocomplete="off" style="">
+        <span id="borraEmpresa" ng-show="simuladorLibranzaForm.convenio.$touched" value="Borrar" ng-click="sl.simulacion.nombreConvenio=null" class="ng-scope" style="">
+          <md-icon md-svg-src="imagenes/img-convenio/ic_close_48px.svg" aria-label="delete"></md-icon>
+        </span>
+        <span class="messages ng-scope" ng-show="simuladorLibranzaForm.$submitted || simuladorLibranzaForm.convenio.$touched" style="">
+          <span ng-show="simuladorLibranzaForm.convenio.$error.required" class="ng-hide" style="">La empresa es un campo obligatorio</span>
+          <span ng-show="!sl.existeConvenio &amp;&amp; !simuladorLibranzaForm.convenio.$error.required" class="ng-hide" style="">
+            ¿Tu empresa no esta registrada? Tenemos otras
+            <a class="modalrefiere" ng-click="sl.irSolicitarConvenio()" flex-gt-lg="auto">
+              opciones para ti.
+            </a>
+          </span>
+        </span>
+      </span><div class="ac-container ng-hide" ng-show="show_autocomplete &amp;&amp; results.length > 0" style="position: absolute; width: 449.958px;"><ul class="ac-menu"><!-- ngRepeat: result in results --></ul></div></div>
+    </div>
+  </div>
+
+  <div class="row">
+
+    <div class="first-half">
+      <label for="montoaSolicitar">Monto a solicitar*</label>
+      <div mass-autocomplete="" class="relative ng-isolate-scope"><span ng-transclude="">
+        <input ng-model="sl.valorSolicitadoFormato" name="valorSolicitado" ng-trim="true" onkeypress="return validarEspacios(event)" maxlength="12" required="" class="monto-sol ng-scope ng-valid-maxlength ng-not-empty ng-dirty ng-valid ng-valid-required ng-valid-parse ng-touched" placeholder="Monto a Solicitar" style="">
+        <span class="messages ng-scope" ng-show="simuladorLibranzaForm.$submitted || simuladorLibranzaForm.valorSolicitado.$touched" style="">
+          <span ng-show="simuladorLibranzaForm.valorSolicitado.$error.required" class="ng-hide" style="">El monto es un campo obligatorio</span>
+          <span ng-show="sl.errorMontoMinimo &amp;&amp; !simuladorLibranzaForm.valorSolicitado.$error.required" class="ng-hide" style="">El monto mínimo requerido es $500.000</span>
+        </span>
+      </span><div class="ac-container ng-hide" ng-show="show_autocomplete &amp;&amp; results.length > 0" style="position:absolute;"><ul class="ac-menu"><!-- ngRepeat: result in results --></ul></div></div>
+    </div>
+
+    <div class="half">
+      <label for="plazoCredito">Plazo*</label>
+      <select ng-model="sl.simulacion.plazo" ng-change="sl.calcularCuotaMensual()" name="plazo" required="" class="ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required" style="">
+        <!--<option value="" disabled selected hidden>Seleccione</option>-->
+        <!-- ngRepeat: plazo in sl.plazos --><option value="6" ng-repeat="plazo in sl.plazos" class="ng-binding ng-scope">6 Meses</option><!-- end ngRepeat: plazo in sl.plazos --><option value="9" ng-repeat="plazo in sl.plazos" class="ng-binding ng-scope">9 Meses</option><!-- end ngRepeat: plazo in sl.plazos --><option value="12" ng-repeat="plazo in sl.plazos" class="ng-binding ng-scope">12 Meses</option><!-- end ngRepeat: plazo in sl.plazos --><option value="18" ng-repeat="plazo in sl.plazos" class="ng-binding ng-scope">18 Meses</option><!-- end ngRepeat: plazo in sl.plazos --><option value="24" ng-repeat="plazo in sl.plazos" class="ng-binding ng-scope">24 Meses</option><!-- end ngRepeat: plazo in sl.plazos --><option value="30" ng-repeat="plazo in sl.plazos" class="ng-binding ng-scope">30 Meses</option><!-- end ngRepeat: plazo in sl.plazos --><option value="36" ng-repeat="plazo in sl.plazos" class="ng-binding ng-scope">36 Meses</option><!-- end ngRepeat: plazo in sl.plazos --><option value="48" ng-repeat="plazo in sl.plazos" class="ng-binding ng-scope">48 Meses</option><!-- end ngRepeat: plazo in sl.plazos --><option value="60" ng-repeat="plazo in sl.plazos" class="ng-binding ng-scope">60 Meses</option><!-- end ngRepeat: plazo in sl.plazos --><option value="72" ng-repeat="plazo in sl.plazos" class="ng-binding ng-scope">72 Meses</option><!-- end ngRepeat: plazo in sl.plazos --><option value="84" ng-repeat="plazo in sl.plazos" class="ng-binding ng-scope">84 Meses</option><!-- end ngRepeat: plazo in sl.plazos --><option value="96" ng-repeat="plazo in sl.plazos" class="ng-binding ng-scope">96 Meses</option><!-- end ngRepeat: plazo in sl.plazos -->
+      </select>
+      <span class="messages ng-hide" ng-show="simuladorLibranzaForm.$submitted || simuladorLibranzaForm.plazo.$touched">
+        <span ng-show="simuladorLibranzaForm.plazo.$error.required" class="ng-hide" style="">El plazo es un campo obligatorio</span>
+      </span>
+    </div>
+  </div>
+
+  <div class="clearfix"></div>
+
+  <div class="row hide">
+    <div class="tipocredsimlib">
+      <p class="form-control-static tipo-credito-arreglo">
+        Tipo de Crédito*
+      </p>
+      <div class="linvsimlib">
+        <input class="css-checkbox ng-pristine ng-untouched ng-valid ng-not-empty" type="radio" value="LI" ng-model="sl.simulacion.finalidad" id="linversion" ng-change="sl.calcularCuotaMensual()" name="finalidad">
+        <label for="linversion" class="css-label radGroup1" tabindex="0">Libre Inversión</label>
+      </div>
+      <div class="ccsimlib">
+        <input type="radio" id="ccartera" value="CC" ng-model="sl.simulacion.finalidad" ng-change="sl.calcularCuotaMensual()" name="finalidad" class="css-checkbox ng-pristine ng-untouched ng-valid ng-not-empty">
+        <label for="ccartera" class="css-label radGroup1" tabindex="0">Compra Cartera</label>
+      </div>
+    </div>
+  </div>
+
+  <div class="row wrap">
+    <div class="first-half">
+      <label for="cuotaprotegida" class="">Seguro de Cuota Protegida*</label>
+    </div>
+    <div class="half info">
+      <div class="row center">
+        <div class="third">
+          <div class="switch" tabindex="0">
+            <input id="cmn-toggle-1" class="cmn-toggle cmn-toggle-round ng-untouched ng-valid ng-not-empty ng-dirty ng-valid-parse" type="checkbox" ng-model="sl.simulacion.cuotaProtegida" ng-change="sl.calcularCuotaMensual()" style="">
+            <label for="cmn-toggle-1"></label>
+          </div>
+        </div>
+        <div class="ninth info">
+           <span class="info-btn hint--top hint--rounded hint--info hint--large" data-hint=" Seguro que cubre temporalmente las cuotas de su crédito en caso de perder su empleo de contrato a término fijo o indefinido en el sector privado. Si es pensionado o empleado del sector oficial cubre incapacidad. En ambos casos cubre detección de enfermedades graves, cáncer femenino o masculino.">
+            i
+          </span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="row">
+    <div class="resultado__simulador resultado__simulador--libranza">
+      <div>
+        <span class="sr-only">Info:</span>
+        Cuota Mensual
+      </div>
+      <div class="resultado-simulador-c-libranza">
+        <span id="resultado" class="valor-cuota">
+          <b class="ng-binding"><span ng-show="!sl.simulacion.valorCuotaMensual" class="ng-hide" style="">$-</span>$1.612.693</b></span>
+        </div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="row">
+      <input type="submit" class="formsim__btnirsolic formsim__btnirsolic--libranza" value="Solicitar" ng-disabled="!simuladorLibranzaForm.$valid || !sl.existeConvenio || sl.errorMontoMinimo" ng-click="sl.solicitar(); sl.reload()" onclick="dataLayer.push({'event': 'eventOcc','eventAction': 'SimuladorLibranzaIrSolicitud','eventCategory': 'OficinaVirtualLibranza','eventLabel': 'SimuladorLibranzaIrSolicitudBtn2'});">
+    </div>
+    <br>
+    <div class="row">
+   
+      <p class="info-calculo">
+      <!--<span>También, puedes comunicarte con <b>Tu Línea Libranza</b> al <b>353 50 67</b> en Bogotá o <b>01 8000 42 5828 (opción 2)</b> a Nivel Nacional.</span>-->
+      <br>
+        “El cálculo que se presenta es aproximado e informativo y puede presentar variación. No constituye asesoría contable ni tributaria.<br>
+		Para obtener información y cálculo acerca del Valor Total Unificado (VTU) por favor remítase a su oficina más cercana.<br>
+        <b><span class="text-warning mobile-just">(*) Campos obligatorios requeridos para continuar con la simulación y solicitud.</span></b><br>
+        Para más información visite los <a href="" ng-click="sl.irTerminosCondiciones($event)">términos y condiciones</a>”
+      </p>
+    </div>
+  </form>
+</div>
+                                    <br>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                    <aside>
+                        <div class="row">
+                            <!--<h3 class="copys-ajustados"><span>Simula tu crédito<br> y empieza a llevar<br></span>tus sueños más lejos</h3>-->
+                        </div>
+                    </aside>
+                </div>
+            </div>
+        </section>
+
+        <!--FIN Plantilla modulo simulador-->
+        <section id="productos" class="productos simLibranza">
+            <div class="container">
+                <div class="row wrap">
+                    <!--CONTENIDO SOLICITUD DE PRODUCTO-->
+                    <h2 class="sr-only">Solicita tu producto</h2>
+                    <div class="tabs">
+                        <ul class="tabs_simulador">
+							<li ui-sref="irSolicitarVivienda" ui-sref-active="tab_activo" role="button" class="" href="#/solicitarVivienda">
+                                <a ng-click="laf.irEstado('irSolicitarVivienda')" gaelement="click-Vivienda" gatype="Solicitud-Vivienda">
+                                    <div>
+                                        <span> Vivienda </span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li ui-sref="irSolicitarVehiculo" href="#/solicitarVehiculo" target="_blank" ui-sref-active="tab_activo" role="button" class="">
+                                <a href="https://www.bancodeoccidente.com.co/occiauto/autogestionado?utm_source=Web&amp;utm_medium=OficinaVirtual&amp;utm_campaign=BtnOficinaVirtual" target="_blank" gaelement="click-Vehiculo" gatype="Solicitud-Vehiculo" onclick="dataLayer.push({'event': 'eventOcc','eventAction': 'SolicitudVehiculosIrAutoges','eventCategory': 'OficinaVirtualVehiculos','eventLabel': 'SolicitudVehiculosIrAutoges'});">
+                                    <div>
+                                        <span> Vehículo </span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li ui-sref="irSolicitarCreditoConsumo" ui-sref-active="tab_activo" role="button" href="#/solicitarCreditoConsumo" target="_blank" class="">
+                                <a href="https://www.bancodeoccidente.com.co/libre-inversion-autogestion?utm_source=Web&amp;utm_medium=OficinaVirtual&amp;utm_campaign=BtnOficinaVirtual" target="_blank" gaelement="click-CConsumo" gatype="Solicitud-CConsumo"> 
+                                <!-- <a ng-click="laf.irEstado('irSolicitarCreditoConsumo')" gaElement="click-CConsumo" gaType="Solicitud-CConsumo"> -->
+                                <div>
+                                    <span> Libre Inversión</span>
+                                </div>
+                              </a>
+                            </li>
+                            <li ui-sref="irSolicitarLibranza" ui-sref-active="tab_activo" role="button" class="" href="#/solicitarLibranza">
+                                <a ng-click="laf.irEstado('irSolicitarLibranza')" gaelement="click-Libranza" gatype="Solicitud-Libranza">
+                                    <div>
+                                        <span> Libranza </span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li ui-sref="irSolicitarTCredito" ui-sref-active="tab_activo" role="button" href="#/solicitarTarjetaCredito" target="_blank" class="">
+                                <a href="https://www.bancodeoccidente.com.co/wps/portal/banco-de-occidente/bancodeoccidente/para-personas/tarjeta-de-credito/nuestras-tarjetas?utm_medium=OficinaVirtual&amp;utm_source=Web&amp;utm_campaign=BtnSolicitarOficinaVirtual/" target="_blank" gaelement="click-TCredito" gatype="Solicitud-TCredito"> 
+                                <!-- <a ng-click="laf.irEstado('irSolicitarTCredito')" gaElement="click-TCredito" gaType="Solicitud-TCredito"> -->
+                                    <div>
+                                        <span> Tarjeta de Crédito .</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li ui-sref="irSolicitarSeguros" ui-sref-active="tab_activo" role="button" class="" href="#/solicitarSeguros">
+                                <a ng-click="laf.irEstado('irSolicitarSeguros')" gaelement="click-Seguros" gatype="Solicitud-Seguros">
+                                    <div>
+                                        <span> Seguros </span>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <article>
+                        <!--contenido del section-->
+                        <div class="overlay-solicitud" id="contenido-productos">
+                            <div class="row">
+                                <!--fin del contenedor de los productos-->
+                                <div class="overlay-body">
+                                    <!-- uiView: viewSolicitud --><div ui-view="viewSolicitud" class="ng-scope" style="">
+<div class="overlay-heading ng-scope">
+  <div class="formhead__icono formhead__icono--libranza"></div>
+  <h3 class="formhead__title formhead__title--libranza">Solicita tu<br><span class="libranza">Crédito de Libranza</span></h3>
+</div>
+<div class="row ng-scope">
+  <div class="divisor__line divisor__line--libranza"></div>
+</div>
+<form name="solicitudLibranzaForm" novalidate="" class="ng-pristine ng-scope ng-invalid ng-invalid-required ng-valid-maxlength">
+
+  <br>
+    <div class="progreso-solicitud progreso-solicitud--libranza">
+      <ul>
+        <li ng-class="{'active':sol.formcifin == true , 'progreso-solicitud--inactivo': sol.formcifinInabilitado == true}" class="active"><a ng-click="sol.clickcEnPestana('1')" href="">1</a></li>
+        <li ng-class="{'active':sol.formcifin2 == true, 'progreso-solicitud--inactivo': sol.formcifin2Inabilitado == true}" class="progreso-solicitud--inactivo"><a ng-click="sol.clickcEnPestana('2')" href="">2</a></li>
+        <li ng-class="{'active':sol.formcifin3 == true , 'progreso-solicitud--inactivo': sol.formcifin3Inabilitado == true}" class="progreso-solicitud--inactivo"><a ng-click="sol.clickcEnPestana('3')" href="">3</a></li>
+        <!-- <li ng-class="{'active':sol.formcifin4 == true,  'progreso-solicitud--inactivo': sol.formcifin4Inabilitado == true}"><a ng-click="sol.clickcEnPestana('4')" href="" >4</a></li> -->
+      </ul>
+    </div>
+    <br>
+
+  <!--FORMULARIO PARTE 1-->
+    <div ng-show="sol.formcifin" class="">
+
+      <div class="row">
+        <div class="full">
+          <p class="text-justify">La ventaja del descuento mensual de cuota directamente de tu salario o pensión es exclusiva del crédito de libranza y aplica para empresas que hayan suscrito convenio con el Banco. Confírmalo buscando tu empresa en nuestra base, luego registra tus datos para que podamos atender tu solicitud.</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="full">
+          <div class="group">
+          <div mass-autocomplete="" class="relative ng-isolate-scope"><span ng-transclude="">
+            <div class="group ng-scope">
+              <input type="text" id="entidadnomina" class="ng-pristine ng-untouched ng-isolate-scope ng-empty ng-invalid ng-invalid-required ng-valid-maxlength" ng-change="sol.cambioEmpresa()" ng-model="sol.solicitud.nombreConvenio" mass-autocomplete-item="sol.opcionesConvenios" name="convenio" maxlength="150" required="" autocomplete="off">
+            <label for="entidadnomina">Busca tu empresa*</label>
+            </div>
+            <span id="borraEmpresa" ng-show="solicitudLibranzaForm.convenio.$touched" value="Borrar" ng-click="sol.solicitud.nombreConvenio=null" class="ng-scope ng-hide">
+              <md-icon md-svg-src="imagenes/img-convenio/ic_close_48px.svg" aria-label="delete"></md-icon>
+            </span>
+            <span class="messages ng-scope ng-hide" ng-show="solicitudLibranzaForm.$submitted || solicitudLibranzaForm.convenio.$touched">
+              <span ng-show="solicitudLibranzaForm.convenio.$error.required" class="">La empresa es un campo obligatorio</span>
+              <span ng-show="!sol.existeConvenio &amp;&amp; !solicitudLibranzaForm.convenio.$error.required" class="ng-hide">
+                ¿Tu empresa no esta registrada? Tenemos otras
+                <a class="modalrefiere" ng-click="sol.irSolicitarConvenio($event)">
+                  opciones para ti.
+                </a>
+              </span>
+            </span>
+          </span><div class="ac-container ng-hide" ng-show="show_autocomplete &amp;&amp; results.length > 0" style="position:absolute;"><ul class="ac-menu"><!-- ngRepeat: result in results --></ul></div></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="first-half">
+          <div class="group">
+            <input onkeyup="eliminarEspacios(event,this.id,this.value)" type="text" id="nombre" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-maxlength" ng-model="sol.solicitud.nombre" name="nombre" maxlength="100" required="">
+            <label for="nombre">Nombre*</label>
+          <span class="messages ng-hide" ng-show="solicitudLibranzaForm.$submitted || solicitudLibranzaForm.nombre.$touched">
+            <span ng-show="solicitudLibranzaForm.nombre.$error.required" class="">El nombre es un campo obligatorio</span>
+            <span ng-show="sol.nombrePalabrasInvalidas &amp;&amp; !solicitudLibranzaForm.nombre.$error.required" class="ng-hide">El nombre contiene palabras inválidas</span>
+          </span>
+          </div>
+        </div>
+
+        <div class="half">
+          <div class="group">
+            <input onkeyup="eliminarEspacios(event,this.id,this.value)" type="text" id="apellido" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-maxlength" ng-model="sol.solicitud.apellido" name="apellido" maxlength="100" required="">
+          <label for="apellido">Apellido*</label>
+          <span class="messages ng-hide" ng-show="solicitudLibranzaForm.$submitted || solicitudLibranzaForm.apellido.$touched">
+            <span ng-show="solicitudLibranzaForm.apellido.$error.required" class="">El apellido es un campo obligatorio</span>
+            <span ng-show="sol.apellidoPalabrasInvalidas &amp;&amp; !solicitudLibranzaForm.apellido.$error.required" class="ng-hide">El apellido contiene palabras inválidas</span>
+          </span>
+        </div>
+          </div>
+      </div>
+
+      <div class="row">
+        <div class="first-half">
+          <!--<label class="" for="tipoid">Tipo de Documento*</label>-->
+
+          <div class="group">
+            <select ng-model="sol.solicitud.tipoIdentificacion" name="" id="tipoid" class="ng-pristine ng-untouched ng-valid ng-not-empty">
+            <option selected="" disabled="" value="Tipo de documento">Tipo de documento</option>
+            <option value="CC">C.C.</option>
+            <option value="CE">C.E.</option>
+          </select>
+          </div>
+
+        </div>
+
+        <div class="half">
+          <div class="group">
+            <input type="text" id="numerodedocumento" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-maxlength" ng-model="sol.solicitud.numeroIdentificacion" name="numeroIdentificacion" ng-trim="true" onkeypress="return validarEspacios(event)" maxlength="13" required="">
+          <label for="numerodedocumento">No. de documento*</label>
+          </div>
+          <span class="messages ng-hide" ng-show="solicitudLibranzaForm.$submitted || solicitudLibranzaForm.numeroIdentificacion.$touched">
+            <span ng-show="solicitudLibranzaForm.numeroIdentificacion.$error.required" class="">El N° de documento es obligatorio</span>
+            <span ng-show="sol.numIdPalabrasInvalidas" class="ng-hide">El N° de documento contiene palabras inválidas</span>
+          </span>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="first-half">
+          <div class="group">
+            <input type="text" id="celular" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-maxlength" ng-model="sol.solicitud.celular" name="celular" maxlength="10" required="">
+          <label for="celular">Celular*</label>
+          </div>
+          <span class="messages ng-hide" ng-show="solicitudLibranzaForm.$submitted || solicitudLibranzaForm.celular.$touched">
+            <span ng-show="solicitudLibranzaForm.celular.$error.required" class="">El celular es un campo obligatorio</span>
+          </span>
+        </div>
+
+        <div class="half">
+          <div class="group">
+            <input type="text" id="fijo" class="ng-pristine ng-untouched ng-valid ng-empty ng-valid-maxlength" ng-model="sol.solicitud.telefonoFijo" name="telefonoFijo" maxlength="10">
+          <label for="fijo">Teléfono fijo</label>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+
+        <div class="first-half">
+          <div mass-autocomplete="" class="relative ng-isolate-scope"><span ng-transclude="">
+            <div class="group ng-scope">
+              <input type="text" id="ciudad" class="ng-pristine ng-untouched ng-isolate-scope ng-empty ng-invalid ng-invalid-required ng-valid-maxlength" ng-model="sol.solicitud.ciudad" mass-autocomplete-item="sol.opcionesCiudades" name="ciudad" maxlength="200" ng-change="sol.cambioCiudad()" required="" autocomplete="off">
+          <label for="ciudad">Ciudad*</label>
+            </div>
+            <span class="messages ng-scope ng-hide" ng-show="solicitudLibranzaForm.$submitted || solicitudLibranzaForm.ciudad.$touched">
+              <span ng-show="solicitudLibranzaForm.ciudad.$error.required" class="">La ciudad es un campo obligatorio</span>
+              <span ng-show="!sol.existeCiudad &amp;&amp; !solicitudLibranzaForm.ciudad.$error.required" class="ng-hide">Debe seleccionar una ciudad válida</span>
+            </span>
+          </span><div class="ac-container ng-hide" ng-show="show_autocomplete &amp;&amp; results.length > 0" style="position:absolute;"><ul class="ac-menu"><!-- ngRepeat: result in results --></ul></div></div>
+        </div>
+
+        <div class="half">
+          <div class="group">
+            <input onkeyup="eliminarEspacios(event,this.id,this.value)" id="email" class="telefono ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" ng-model="sol.solicitud.email" name="email" required="">
+          <label for="email">Email*</label>
+          </div>
+          <span class="messages ng-hide" ng-show="solicitudLibranzaForm.$submitted || solicitudLibranzaForm.email.$touched">
+            <span ng-show="solicitudLibranzaForm.email.$error.required" class="">El email es un campo obligatorio</span>
+            <span ng-show="!solicitudLibranzaForm.email.$error.required &amp;&amp; !sol.correoValido" class="ng-hide">Ingrese una dirección de email válida</span>
+          </span>
+        </div>
+      </div>
+
+      <br>
+      <div class="clearfix"></div>
+
+      <div class="row">
+          <button type="submit" class="formsol__btnsolic formsol__btnsolic--libranza ng-binding" ng-disabled="!solicitudLibranzaForm.$valid || !sol.existeCiudad || !sol.existeConvenio || !sol.correoValido || sol.nombrePalabrasInvalidas || sol.apellidoPalabrasInvalidas || sol.numIdPalabrasInvalidas" ng-click="sol.solicitarF1();" onclick="dataLayer.push({'event': 'eventOcc','eventAction': 'SolicitudLibranza','eventCategory': 'OficinaVirtualLibranza','eventLabel': 'SolicitudLibranzaStep1'});" disabled="disabled">Continuar</button>
+      </div>
+
+      <div class="row">
+        <p class="info-calculo">
+          <!-- <span>También, puedes comunicarte con <b>Tu Línea Libranza</b> al <b>353 50 67</b> en Bogotá o <b>01 8000 42 5828 (opción 2)</b> a Nivel Nacional.</span> -->
+          <br>
+          El cálculo  que se presenta es aproximado e informativo y puede presentar variación.  No constituye asesoría contable ni tributaria.<br>
+          <b><span class="text-warning mobile-just">(*) Campos obligatorios requeridos para continuar con la simulación y solicitud.</span></b>
+        </p>
+      </div>
+    </div>
+    </form>
+  <!--FIN FORMULARIO PARTE 1-->
+
+  <!--FORMULARIO PARTE 2-->
+  <form name="solicitudLibranzaForm2" novalidate="" class="ng-pristine ng-scope ng-invalid ng-invalid-required ng-valid-maxlength">
+  <div ng-show="sol.formcifin2" class="ng-hide">
+
+      <div class="row">
+        <div class="first-half">
+
+            <label for="fechanacimiento">Fecha de nacimiento*</label>
+            <input readonly="true" type="text" id="fechanacimiento" name="fechanacimiento" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" placeholder="dd/mm/aa" ng-model="sol.solicitud.fechaNacimiento" required="">
+            <span class="messages ng-hide" ng-show="solicitudLibranzaForm2.$submitted || solicitudLibranzaForm2.fechanacimiento.$touched">
+            <span ng-show="solicitudLibranzaForm2.fechanacimiento.$error.required" class="">Fecha de nacimiento es un campo obligatorio</span>
+            <span ng-show="!solicitudLibranzaForm2.fechanacimiento.$error.required &amp;&amp; (sol.validacion.edadMaxima || sol.validacion.edadMinima)" class="ng-hide">   Estimado usuario, la solicitud no puede ser tramitada porque no cumple con el rango de edad requerido para el producto</span>
+            </span>
+
+            <label for="fechanacimiento">Fecha de expedición documento*</label>
+            <input readonly="true" type="text" id="fechaexpediciondocumento" name="fechaexpediciondocumento" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" placeholder="dd/mm/aa" ng-model="sol.solicitud.fechaExpedicionDocumento" required="">
+            <span class="messages ng-hide" ng-show="solicitudLibranzaForm2.$submitted || solicitudLibranzaForm2.fechaexpediciondocumento.$touched">
+            <span ng-show="solicitudLibranzaForm2.fechaexpediciondocumento.$error.required" class="">Fecha de expedición documento es un campo obligatorio</span>
+             <span ng-show="sol.validacion.fechaExpedicionDocumento" class="ng-hide">Fecha de expedición del documento no puede ser menor a la fecha de nacimiento</span>
+
+              <span ng-show="sol.validacion.fechaExpedicionDocumentoEdad" class="ng-hide">Fecha de expedición del documento no corresponde a la edad</span>
+
+            </span>
+          <!--<span class="messages" ng-show="solicitudLibranzaForm2.$submitted || solicitudLibranzaForm2.nombre.$touched">-->
+            <!--<span ng-show="solicitudLibranzaForm2.nombre.$error.required">El nombre es un campo obligatorio</span>-->
+            <!--<span ng-show="sol.nombrePalabrasInvalidas && !solicitudLibranzaForm2.nombre.$error.required">El nombre contiene palabras inválidas</span>-->
+          <!--</span>-->
+        </div>
+
+        <div class="half">
+          <label for="perfil">Perfil*</label>
+          <div class="row checks">
+            <div>
+              <input ng-model="sol.solicitud.perfil" id="asalariado" class="css-checkbox ng-pristine ng-untouched ng-valid ng-not-empty" checked="true" type="radio" name="gender" value="E">
+              <label class="css-label radGroup1 radGroup1" for="asalariado">Empleado</label>
+            </div>
+            <div>
+              <input ng-click="sol.clickPensionado()" ng-model="sol.solicitud.perfil" id="pensionado" class="css-checkbox ng-pristine ng-untouched ng-valid ng-not-empty" type="radio" name="gender" value="P">
+              <label class="css-label radGroup1 radGroup1" for="pensionado">Pensionado</label>
+            </div>
+          </div>
+              <!--
+              <select ng-model="sol.solicitud.perfil" name="" id="perfil">
+                <option value="{{perfil.id}}" ng-repeat="perfil in sol.perfiles">{{perfil.nombre}}</option>
+              </select>
+              -->
+
+        </div>
+      </div>
+
+
+    <div ng-show="sol.solicitud.perfil == 'E'" ng-disabled="sol.solicitud.perfil == 'E'" class="" disabled="disabled">
+
+      <div class="row">
+    <style>
+      .claseSinContrato {width: 85%}
+      .claseContrato {width: 100%}
+    </style>
+        <div class="first-half">
+          <label for="tipocontrato">Tipo de contrato*</label>
+          <select title="casilla-contrato" ng-model="sol.solicitud.tipoContrato" ng-disabled="sol.solicitud.perfil != 'E'" name="" id="tipocontrato" class="ng-pristine ng-untouched ng-valid ng-not-empty">
+             <!-- ngRepeat: tipoContrato in sol.tiposContrato --><option ng-click="sol.clickTerminoFijo()" value="TF" ng-repeat="tipoContrato in sol.tiposContrato" class="ng-binding ng-scope">Término Fijo</option><!-- end ngRepeat: tipoContrato in sol.tiposContrato --><option ng-click="sol.clickTerminoFijo()" value="I" ng-repeat="tipoContrato in sol.tiposContrato" class="ng-binding ng-scope">Indefinido - En propiedad</option><!-- end ngRepeat: tipoContrato in sol.tiposContrato --><option ng-click="sol.clickTerminoFijo()" value="P" ng-repeat="tipoContrato in sol.tiposContrato" class="ng-binding ng-scope">Provisional</option><!-- end ngRepeat: tipoContrato in sol.tiposContrato --><option ng-click="sol.clickTerminoFijo()" value="LNR" ng-repeat="tipoContrato in sol.tiposContrato" class="ng-binding ng-scope">Libre Nombramiento y Remoción</option><!-- end ngRepeat: tipoContrato in sol.tiposContrato -->
+          </select>
+          <div class="hint-info-libranza contrato">
+            <span ng-show="sol.solicitud.tipoContrato == 'TF'" ng-disabled="sol.solicitado.tipoContrato != 'TF'" class="info-btn hint--top hint--rounded hint--info hint--large  claseSinContrato" data-hint="Tu tipo de contrato te permite solicitar crédito con plazo máximo de 72 meses, siempre y cuando lleves más de 2 años consecutivos en tu empresa." disabled="disabled">?</span>
+          </div>
+        </div>
+        <div class="half input-date-inicio-fin">
+          <label for="periodocontratadoinicio">Periodo contratado*</label>
+          <!--Periodo Inicio-->
+          <input readonly="" ng-disabled="sol.solicitud.perfil != 'E'" type="text" id="periodocontratadoinicio" name="periodocontratadoinicio" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" placeholder="Fecha de inicio" ng-model="sol.solicitud.periodoContratadoInicio" required="">
+          <!--Periodo Fin-->
+          <input readonly="" ng-show="sol.solicitud.tipoContrato == 'TF'" type="text" id="periodocontratadofin" name="periodocontratadofin" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" placeholder="Fecha fin" ng-model="sol.solicitud.periodoContratadoFin" ng-required="sol.solicitud.tipoContrato == 'TF'" required="required">
+          <!--Mensaje de Periodo Incio-->
+          <span class="messages ng-hide" ng-show="solicitudLibranzaForm2.$submitted || solicitudLibranzaForm2.periodocontratadoinicio.$touched">
+            <span ng-show="solicitudLibranzaForm2.periodocontratadoinicio.$error.required &amp;&amp; (sol.solicitud.perfil == 'E')" class="">Fecha de inicio del periodo  contratado es un campo obligatorio</span>
+
+          <span ng-show="sol.validacion.periodocontratadoiniciovsfechanacimiento" class="ng-hide">Fecha inicio del contrato no puede ser menor a la fecha de nacimiento</span>
+          </span>
+
+          
+          <!--Mensaje de Periodo Fin-->
+          <div ng-show="sol.solicitud.tipoContrato == 'TF'" class="">
+          <span class="messages ng-hide" ng-show="solicitudLibranzaForm2.$submitted || solicitudLibranzaForm2.periodocontratadofin.$touched">
+             <span ng-show="solicitudLibranzaForm2.periodocontratadofin.$error.required" class="">Fecha final del periodo contratado es un campo obligatorio</span>
+              <span ng-show="sol.validacion.fechFinalContrato" class="ng-hide">Fecha final del periodo contratado no puede ser menor a la fecha inicial</span>
+          </span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+      <div class="row">
+        <div class="first-half">
+          <label for="ingresoxnomina">Ingresos de nómina*</label>
+          <input maxlength="13" id="ingresoxnomina" ng-model="sol.solicitud.ingresoNominaFormato" name="ingresoxnomina" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-maxlength" placeholder="Valor" required="true">
+          <div ng-show="(sol.solicitud.tipoContrato != 'LNR')" class="">  
+            <span class="messages ng-hide" ng-show="solicitudLibranzaForm2.$submitted || solicitudLibranzaForm2.ingresoxnomina.$touched">
+              <span ng-show="solicitudLibranzaForm2.ingresoxnomina.$error.required" class="">Ingreso de nomina a solicitar es un campo obligatorio</span>
+              <span ng-show="sol.validacion.ingresosMinimo" class="ng-binding ng-hide">Valor mínimo aceptado  (1 SMMLV)</span>
+            </span>
+          </div>
+
+          <div ng-show="(sol.solicitud.tipoContrato == 'LNR')" class="ng-hide">  
+            <span class="messages ng-hide" ng-show="solicitudLibranzaForm2.$submitted || solicitudLibranzaForm2.ingresoxnomina.$touched">
+              <span ng-show="solicitudLibranzaForm2.ingresoxnomina.$error.required" class="">Ingreso de nomina a solicitar es un campo obligatorio</span>
+              <span ng-show="sol.validacion.ingresosLNR" class="ng-binding ng-hide">Valor mínimo aceptado $2.070.290 (2.5 SMMLV)</span>
+            </span>
+          </div>
+
+          <!--  <span class="messages" ng-show="solicitudLibranzaForm2.$submitted || solicitudLibranzaForm2.ingresoxnomina.$touched">
+            <span ng-show="solicitudLibranzaForm2.ingresoxnomina.$error.required">Ingreso de nomina a solicitar es un campo obligatorio</span>
+            <span ng-show="sol.validacion.ingresosMinimo">Valor mínimo aceptado {{sol.solicitud.salarioBasico | currency:"$":0 }} (1 SMMLV)</span>
+          </span> -->
+        <!-- <label for="periodocontratadofin">Periodo Contratado*</label>
+        <input type="text" id="periodocontratadofin" name="periodocontratadofin" class="" placeholder="Fecha Fin" ng-model="sol.solicitud.periodoContratadoFin" required>
+        <span class="messages" ng-show="solicitudLibranzaForm2.$submitted || solicitudLibranzaForm2.periodocontratadofin.$touched">
+           <span ng-show="solicitudLibranzaForm2.periodocontratadofin.$error.required">Fecha final del periodo contratado es un campo obligatorio</span>
+        </span> -->
+        </div>
+        <div class="half">
+          <label for="deduccionesnomina">Deducciones de nómina*</label>
+          <input maxlength="13" id="deduccionesnomina" name="deduccionesnomina" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-maxlength" placeholder="Valor" ng-model="sol.solicitud.deduccionesNominaFormato" required="">
+          <span class="messages ng-hide" ng-show="solicitudLibranzaForm2.$submitted || solicitudLibranzaForm2.deduccionesnomina.$touched">
+            <span ng-show="solicitudLibranzaForm2.deduccionesnomina.$error.required" class="">Deducciones de Nómina es un campo obligatorio</span>
+              <span ng-show="sol.validacion.deduccionesmin" class="ng-hide">El valor de las deducciones es menor al esperado</span>
+        </span></div>
+         <div class="hint-info-libranza">
+          <span class="info-btn hint--top hint--rounded hint--info hint--large" data-hint="Suma todos los descuentos mensuales de nómina incluyendo los de ley (salud, pensión, retefuente) y otros derivados de ahorros o servicios (descuentos de fondo de empelados, seguros, consumos, etc.).">?</span>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="first-half">
+
+
+<!--
+          <label for="perfil">Tipo de vivienda*</label>
+          <select ng-model="sol.solicitud.tipoVivienda" name="" id="perfil">
+            <option value="PROPIA">Propia</option>
+            <option value="OTRAS">Otras</option>
+          </select>-->
+          <label for="perfil">Tipo de vivienda*</label>
+            <div class="row checks">
+
+            <div>
+
+              <input ng-model="sol.solicitud.tipoVivienda" id="propia" class="css-checkbox ng-pristine ng-untouched ng-valid ng-not-empty" checked="true" type="radio" name="propia" value="PROPIA">
+              <label class="css-label radGroup1 radGroup1" for="propia">Propia</label>
+            </div>
+            <div>
+              <input ng-model="sol.solicitud.tipoVivienda" id="otras" class="css-checkbox ng-pristine ng-untouched ng-valid ng-not-empty" type="radio" name="otras" value="OTRA">
+              <label class="css-label radGroup1 radGroup1" for="otras">Otras</label>
+            </div>
+          </div>
+
+
+
+        </div>
+        <div class="half">
+          <label for="ingresosadicionales">Ingresos adicionales (Opcional)</label>
+          <input maxlength="13" id="ingresosadicionales" name="ingresosadicionales" class="ng-pristine ng-untouched ng-valid ng-empty ng-valid-maxlength" placeholder="Valor" ng-model="sol.solicitud.ingresosAdicionalesFormato">
+          <span class="messages ng-hide" ng-show="solicitudLibranzaForm2.$submitted || solicitudLibranzaForm2.ingresosadicionales.$touched">
+            <span ng-show="sol.validacion.ingresosAdicionales" class="ng-hide">Valor mínimo aceptado $100.000</span>
+          </span>
+        </div>
+        <div class="hint-info-libranza">
+          <span class="info-btn hint--top hint--rounded hint--info hint--large" data-hint="Aquellos que percibes por fuera de tu empleo o pensión, como honorarios, arrendamientos, rendimientos financieros, entre otros. También cuentan aquellos que sean producto de un segundo empleo o pensión.">?</span>
+        </div>
+      </div>
+
+
+      <br>
+      <div class="clearfix"></div>
+
+      <div class="row">
+        <div class="first-half">
+          <input style="height: 42px" value="volver" type="button" ng-click="sol.clickcEnPestana('1')" class="formsol__btnsolic formsol__btnsolic--tcredito">
+        </div>
+        <div class="half">
+        <button type="submit" class="formsol__btnsolic formsol__btnsolic--libranza ng-binding" ng-disabled=" (solicitudLibranzaForm2.fechanacimiento.$error.required || (sol.validacion.edadMaxima || sol.validacion.edadMinima))
+                      ||(solicitudLibranzaForm2.fechaexpediciondocumento.$error.required || sol.validacion.fechaExpedicionDocumento || sol.validacion.fechaExpedicionDocumentoEdad )
+                      ||((solicitudLibranzaForm2.periodocontratadoinicio.$error.required || periodocontratadoiniciovsfechanacimiento) &amp;&amp; sol.solicitud.perfil == 'E')
+                      ||(((solicitudLibranzaForm2.periodocontratadofin.$error.required || sol.validacion.fechFinalContrato ) &amp;&amp; sol.solicitud.tipoContrato == 'TF' ) &amp;&amp; sol.solicitud.perfil == 'E')
+                      ||(solicitudLibranzaForm2.ingresoxnomina.$error.required || sol.validacion.ingresosMinimo)
+                      ||(solicitudLibranzaForm2.deduccionesnomina.$error.required &amp;&amp; sol.validacion.deducionesminimo)
+                      ||(solicitudLibranzaForm2.ingresosadicionales.$error.required || sol.validacion.ingresosAdicionales) || sol.validacion.ingresosLNR " ng-click="sol.solicitarF2();" onclick="dataLayer.push({'event': 'eventOcc','eventAction': 'SolicitudLibranza','eventCategory': 'OficinaVirtualLibranza','eventLabel': 'SolicitudLibranzaStep2'});" disabled="disabled">Continuar</button>
+        </div>
+
+      </div>
+
+  </div>
+  </form>
+
+  <!--FIN FORMULARIO PARTE 2-->
+
+  <!--FORMULARIO PARTE 3-->
+<form name="solicitudLibranzaForm3" novalidate="" class="ng-pristine ng-scope ng-invalid ng-invalid-required ng-valid-maxlength ng-invalid-recaptcha">
+  <div ng-show="sol.formcifin3" class="ng-hide">
+
+      <div class="row">
+        <div class="first-half">
+          <label for="fechanac">Monto a solicitar*</label>
+          <input name="valorSolicitado" id="valorSolicitado" required="" ng-model="sol.solicitud.valorSolicitadoFormato" type="text" maxlength="12" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-maxlength" placeholder="Valor">
+          <span class="messages ng-hide" ng-show="solicitudLibranzaForm3.$submitted || solicitudLibranzaForm3.valorSolicitado.$touched">
+              <span ng-show="solicitudLibranzaForm3.valorSolicitado.$error.required" class="">El monto a solicitar es un campo obligatorio</span>
+              <span ng-show="!solicitudLibranzaForm3.valorSolicitado.$error.required &amp;&amp; sol.validacion.montoMinimo" class="ng-hide">Valor mínimo aceptado $500.000</span>
+        </span>
+        </div>
+
+        <div class="half">
+          <label for="perfil">Plazo*</label>
+          <select ng-model="sol.solicitud.plazo" name="" id="perfil" class="ng-pristine ng-untouched ng-valid ng-empty"><option value="? undefined:undefined ?"></option>
+         <!--<option value="" disabled selected hidden>Seleccione</option>-->
+        <!-- ngRepeat: plazo in sol.plazos --><option value="6" ng-repeat="plazo in sol.plazos" class="ng-binding ng-scope">6 Meses</option><!-- end ngRepeat: plazo in sol.plazos --><option value="9" ng-repeat="plazo in sol.plazos" class="ng-binding ng-scope">9 Meses</option><!-- end ngRepeat: plazo in sol.plazos --><option value="12" ng-repeat="plazo in sol.plazos" class="ng-binding ng-scope">12 Meses</option><!-- end ngRepeat: plazo in sol.plazos --><option value="18" ng-repeat="plazo in sol.plazos" class="ng-binding ng-scope">18 Meses</option><!-- end ngRepeat: plazo in sol.plazos --><option value="24" ng-repeat="plazo in sol.plazos" class="ng-binding ng-scope">24 Meses</option><!-- end ngRepeat: plazo in sol.plazos --><option value="30" ng-repeat="plazo in sol.plazos" class="ng-binding ng-scope">30 Meses</option><!-- end ngRepeat: plazo in sol.plazos --><option value="36" ng-repeat="plazo in sol.plazos" class="ng-binding ng-scope">36 Meses</option><!-- end ngRepeat: plazo in sol.plazos --><option value="48" ng-repeat="plazo in sol.plazos" class="ng-binding ng-scope">48 Meses</option><!-- end ngRepeat: plazo in sol.plazos --><option value="60" ng-repeat="plazo in sol.plazos" class="ng-binding ng-scope">60 Meses</option><!-- end ngRepeat: plazo in sol.plazos --><option value="72" ng-repeat="plazo in sol.plazos" class="ng-binding ng-scope">72 Meses</option><!-- end ngRepeat: plazo in sol.plazos --><option value="84" ng-repeat="plazo in sol.plazos" class="ng-binding ng-scope">84 Meses</option><!-- end ngRepeat: plazo in sol.plazos --><option value="96" ng-repeat="plazo in sol.plazos" class="ng-binding ng-scope">96 Meses</option><!-- end ngRepeat: plazo in sol.plazos -->
+      </select>
+          
+          <!--<span class="messages" ng-show="solicitudLibranzaForm.$submitted || solicitudLibranzaForm.nombre.$touched">-->
+            <!--<span ng-show="solicitudLibranzaForm.nombre.$error.required">El nombre es un campo obligatorio</span>-->
+            <!--<span ng-show="sol.nombrePalabrasInvalidas && !solicitudLibranzaForm.nombre.$error.required">El nombre contiene palabras inválidas</span>-->
+          <!--</span>-->
+        </div>
+      </div>
+      <div class="row wrap ng-hide" ng-show="sol.validacion.edadCuota">
+        <div class="first-half">
+          <label for="cuotaprotegida" class="">Seguro de Cuota Protegida*</label>
+        </div>
+        <div class="half info">
+          <div class="row center">
+            <div class="third">
+              <div class="switch" tabindex="0">
+                <input id="cmn-toggle-3" class="cmn-toggle cmn-toggle-round ng-pristine ng-untouched ng-valid ng-empty" type="checkbox" ng-model="sol.solicitud.cuotaProtegida" ng-change="sol.calcularCuotaMensual()">
+                <label for="cmn-toggle-3"></label>
+              </div>
+            </div>
+            <div class="ninth info">
+              <span class="info-btn hint--top hint--rounded hint--info hint--large" data-hint=" Seguro ofrecido por Seguros Alfa S.A que cubre las cuotas del crédito temporalmente en caso de perder el empleo sin justa causa si es empleado o pensionado, o si queda incapacitado como empleado del sector oficial. En ambos casos cubre el diagnóstico de enfermedades graves y de cáncer femenino o masculino">
+                i
+              </span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+        <div class="row wrap">
+    <div class="first-half">
+           <a href="" class="color-enlace" ng-click="sol.irTerminosCondiciones($event)"><p class="form-control-static ajuste-acepto terminos-condiciones">Acepto términos y condiciones</p></a>
+    </div>
+    <div class="half info">
+      <div class="row center">
+        <div class="third">
+          <div class="switch" tabindex="0">
+               <input id="cmn-toggle-2" name="mn-toggle-2" class="cmn-toggle cmn-toggle-round ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" type="checkbox" ng-model="sol.solicitud.terminosCondiciones" required="">
+        <label for="cmn-toggle-2"></label>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <div class="clearfix"></div>
+<br>
+<div class="row"><!--inicio del row-->
+  <!--GOOGLE CAPTCHA-->
+  <div vc-recaptcha="" theme="light" key="sol.publicKey" on-create="sol.setRecaptchaId(widgetId)" class="captcha ng-isolate-scope" onclick="sol.reload"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Le3ZBsUAAAAAEnArHOHKAc8tjIEsTPVpFjdNpgw&amp;co=aHR0cHM6Ly93d3cuYmFuY29kZW9jY2lkZW50ZS5jb20uY286NDQz&amp;hl=es&amp;v=uEf7E1417z6GNSkRx7AyL8K8&amp;theme=light&amp;size=normal&amp;cb=7tjlu4jmhyqv" width="304" height="78" role="presentation" name="a-4yduf28sbhws" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+</div>
+    <br>
+      <div class="clearfix"></div>
+
+      <div class="row">
+        <button type="submit" class="formsol__btnsolic formsol__btnsolic--libranza ng-binding" ng-disabled="
+        (!solicitudLibranzaForm3.$valid
+        || (solicitudLibranzaForm3.montosolicitar.$error.required || sol.validacion.montoMinimo || sol.validacion.montoMaximo)) || sol.validacion.desactivarBotonEnvio" ng-click="sol.solicitarF3();" onclick="dataLayer.push({'event': 'eventOcc','eventAction': 'SolicitudLibranza','eventCategory': 'OficinaVirtualLibranza','eventLabel': 'SolicitudLibranzaStep3'});" disabled="disabled">Continuar</button>
+      </div>
+
+  </div>
+  </form>
+  <!--FIN FORMULARIO PARTE 3-->
+  <!--FORMULARIO PARTE 4-->
+    <div ng-show="sol.formcifin4" class="ng-scope ng-hide">
+   <!-- ngRepeat: pregunta in sol.preguntasRespuestas -->
+      <br>
+      <div class="clearfix"></div>
+      <div class="row">
+        <button ng-click="sol.solicitarF4();" class="formsol__btnsolic formsol__btnsolic--libranza ng-binding">Validar Preguntas</button>
+      </div>
+    </div>
+  <!--FIN FORMULARIO PARTE 4-->
+</div>
+                                </div>
+                                <!--cierre del selector de productos-->
+                                <!--cierre del contenedor del overlay-->
+                            </div>
+                        </div>
+                    </article>
+                    <aside>
+                        <div class="row">
+                            <!--<h3 class="copys-ajustados"><span>Creemos<br></span>en tus proyectos</h3>-->
+                        </div>
+                    </aside>
+                    <!--FIN CONTENIDO SOLICITUD PRODUCTO-->
+                </div>
+            </div>
+        </section>
+        <!--FIN PLANTILLA DE PRESENTACION SOLICITUD LIBRANZA-->
+
+        <!--INICIO PLANTILLA DE PRESENTACION BENEFICIOS-->
+        <section id="beneficios" class="beneficios">
+            <div class="container">
+                <div class="row wrap">
+                    <!--inicio del row-->
+                    <!--INICIO CONTENIDO BENEFICIOS-->
+                    <!--inicio del row-->
+                    <h2 class="sr-only">Beneficios</h2>
+                    <article>
+                        <!--contenido del section-->
+                        <div class="overlay">
+                            <div class="overlay-heading">
+                                <div class="formhead__icono formhead__icono--beneficios"></div>
+                                <h3 class="formhead__title formhead__title--beneficios">Beneficios<br><span>de solicitud en línea</span></h3>
+                            </div>
+                            <div class="row">
+                                <div class="overlay-body overlay-body--beneficios">
+                                    <br>
+                                    <ol class="listado-beneficios">
+                                        <li><span>1</span>Fácil y ágil acceso a solicitud de créditos y seguros.</li>
+                                        <br>
+                                        <li><span>2</span>Disponibilidad todos los días a cualquier hora.</li>
+                                        <br>
+                                        <li><span>3</span>Atención prioritaria a la solicitud de productos.</li>
+                                        <br>
+                                        <li><span>4</span>No te exigimos apertura de otros productos.</li>
+                                        <br>
+                                        <li><span>5</span>Puedes conocer el valor aproximado de tu cuota. <!--conoce más información <a onclick="openModal()" style="cursor: pointer;">aquí--></li>
+                                        <br>
+                                    </ol>
+                                <!--Comienza modal-->
+                                      <div id="cont-masInformacion" class="modal">
+                                            <div class="modal-content">
+                                                <div class="contMiniBanner">
+                                                    <div class="imgBanner" style="background: url(imagenes/img-beneficios/banner-mas-informacion.jpg);"></div>
+                                                    <div class="degradado"></div>
+                                                    <h1><b>Información adicional</b> <br>sobre tu solicitud</h1>
+                                                    <div class="cerrar"><span class="closex" onclick="closeModal()">×</span></div>
+                                                </div>
+                                                <div class="contenido">
+                                                    <ul>
+                                                        <li>Te prestamos desde <b>2 millones de pesos</b> hasta tu capacidad de endeudamiento.</li>
+                                                        <li>Tasas entre <b>0.85% y 1.85% m.v.</b> dependiendo de tu perfil.</li>
+                                                        <li>Elige el plazo de pago entre <b>12 y 72*</b> meses. *En plazo de 72 meses solo aplica presentando Garantía Real.</li>
+                                                        <li>Seguro de vida que ampara el crédito en caso de calamidad.</li>
+                                                        <li>Debes ser mayor de edad para acceder a nuestros créditos.</li>
+                                                        <li>Vigencia de 90 días para desembolso después de la fecha de aprobación.</li>
+                                                    </ul>
+                                                    <h3>Beneficios:</h3>
+                                                    <ul>
+                                                        <li>Financia tus proyectos personales con el Crédito Libre Destino.</li>
+                                                        <li>El estudio de tu crédito es gratis.</li>
+                                                        <li>Puedes realizar abonos extraordinarios para reducir el plazo o el valor de las cuotas.</li>
+                                                        <li>Tienes la opción de cancelar anticipadamente tu crédito</li>
+                                                        <li>Debes ser mayor de edad para acceder a nuestros créditos.</li>
+                                                        <li>Paga en efectivo, cheque del Banco local, débito automático a la cuenta de ahorros o corriente y a través de PSE-Aval Pay Center.</li>
+                                                    </ul>
+                                              </div>
+                                            </div>
+                                      </div>
+                                    <script type="text/javascript">
+                                        function openModal() { document.getElementById("cont-masInformacion").style.display ="block"; }
+                                        function closeModal() { document.getElementById("cont-masInformacion").style.display ="none"; }
+                                    </script>
+                                <!--termina modal modal-->
+                                    <br>
+                                    <p class="condiciones" style="">
+                                        <span><b>¿Tienes dudas?</b><br> Contáctanos a través de nuestras líneas de <a href="https://www.bancodeoccidente.com.co/wps/portal/banco-de-occidente/bancodeoccidente/canales-servicios/contactanos/lineas-de-servicio-al-cliente">servicio al cliente</a> </span><br>
+                                    </p>
+                                    <p class="condiciones">*Aplican condiciones que pueden ser consultadas en
+                                        <a title="Banco de Occidente" target="_blank" rel="noopener noreferrer" href="https://www.bancodeoccidente.com.co">
+                                            www.bancodeoccidente.com.co
+                                        </a>
+                                    </p>
+                                    <div class="row">
+                                        <br>
+                                        <h4 class="text-success conoce-beneficios">Conoce y disfruta de nuestras promociones</h4>
+                                        <br>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <br>
+
+                    </article>
+                    <aside>
+                        <div class="row">
+                            <!--<h3 class="copys-ajustados"><span>Queremos</span><br>hacer tu vida<br>más sencilla</h3>-->
+                        </div>
+                    </aside>
+                    <!--fin del row-->
+                    <!--FIN CONTENIDO BENEFICIOS-->
+                </div>
+            </div>
+            <!--fin del row-->
+        
+        <!--cierre del container-->
+    </section>
+    <!--FIN PLANTILLA DE PRESENTACION BENEFICIOS-->
+
+    <!-- PLANTILLA DE PRESENTACION CONTACTENOS-->
+    <!-- <section id="contacto" class="contacto">
+        <div class="container">
+            <div class="row wrap"> -->
+                <!--INICIO CONTENIDO CONTACTENOS-->
+                <!-- <h2 class="sr-only">Contacto</h2>
+                <article> -->
+                    <!--contenido del section-->
+                    <!-- <div class="overlay">
+                        <div class="overlay-heading">
+                            <div class="formhead__icono formhead__icono--contacto"></div>
+                            <h3 class="formhead__title formhead__title--contacto"><span>Contáctanos</span></h3>
+                        </div>
+                        <div class="row">
+
+                            <div class="overlay-body overlay-body--contacto">
+                                <p>Porque el servicio es lo mas importante para nosotros, ponemos a tu disposición diferentes canales para que te comuniques.</p>
+                                <br>
+                                <p><span class="color-azul">Contáctanos</span> a través de nuestras líneas de atención:</p>
+                                <br>
+                                <p><b>Nuevos teléfonos Líneas de Servicio al Cliente</b>
+                                    <br><b>A nivel nacional:</b>018000514652<br>
+                                <b>Bogotá:</b>	390 20 58</p>
+                                <b>Cali:</b>	485 11 13</p>
+							<b>Medellín:</b>	605 20 20</p>
+						<b>Barranquilla:</b>	386 97 72</p>
+					<br>
+                                
+                                <h5 class="color-azul">O utiliza nuestros canales de atención online:</h5>
+                                <br> -->
+                           <!--      <div class="row">
+                                    <a title="Video llamada Banco de Occidente" target="_blank" rel="noopener noreferrer" href="http://videollamada.bancodeoccidente.com.co/">
+                                        <div class="imagen">
+                                            <img src="imagenes/img-contactenos/video-llamada.png" height="568" width="112" alt="video llamada" class="img-responsive">
+                                        </div>
+                                    </a>
+                                </div> -->
+                                <!-- <div class="ajuste-formularios"></div>
+                                <div class="row">
+                                    <a title="Sugerencias y reclamos" target="_blank" rel="noopener noreferrer" href="https://www.bancodeoccidente.com.co/wps/portal/banco-de-occidente/bancodeoccidente/canales-servicios/catabot-chat-en-linea">
+                                        <div class="imagen">
+                                            <img src="imagenes/img-contactenos/formulario-contacto.png" height="568" width="112" alt="formulario contacto"  class="img-responsive">
+                                        </div>
+                                    </a>
+                                </div>
+                                <br>
+                                <br>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <aside>
+                    <div class="row"> -->
+                        <!--<h3 class="colortitulo copys-ajustados"><span>Brindarte el<br>mejor servicio</span><br>es nuestra prioridad</h3>-->
+                    <!-- </div>
+                </aside> -->
+                <!--FIN CONTENIDO CONTACTENOS-->
+            <!-- </div>
+        </div>
+    </section> -->
+    <!--FIN PLANTILLA DE PRESENTACION CONTACTENOS -->
+
+    <!--PLANTILLA DE PRESENTACION FOOTER-->
+    <div class="piepagina">
+        <footer>
+            <!--INICIO FOOTER-->
+            <div class="row center">
+                    <div class="imagenfooter">
+                        <img src="imagenes/img-footer/logos-footer.png" width="291" height="73" alt="Logotipos grupo aval" class="img-responsive">
+                    </div>
+
+                    <div class="imagenfooter imagen2footer">
+                        <a href="" ng-click="laf.irComoFunciona($event)">
+                            <img src="imagenes/img-footer/btn-como-funciona.png" width="152" height="59" alt="boton como funciona" class="img-responsive como-funciona">
+                        </a>
+                    </div>
+            </div>
+
+            <!--FIN FOOTER-->
+        </footer>
+    </div>
+
+    <script defer="" src="js/main.js"></script>
+    <!-- Funciones comunes -->
+    <script>
+    // Funcion que valida espacios
+    function validarEspacios(e) {
+        tecla=(document.all) ? e.keyCode : e.which;
+        if (tecla==32) {
+            return false;
+        }
+    }
+    </script>
+    <!-- Angular -->
+    <script src="js/lib/angular.min.js"></script>
+    <script src="js/lib/angular-locale_es-co.min.js"></script>
+    <script src="js/lib/angular-animate.min.js"></script>
+    <script src="js/lib/angular-aria.min.js"></script>
+    <script src="js/lib/angular-messages.min.js"></script>
+    <script src="js/lib/ngDialog.min.js"></script>
+    <script src="js/lib/angular-sanitize.min.js"></script>
+    <script src="js/lib/angular-ui-router.min.js"></script>
+    <script src="js/lib/angular-scroll.min.js"></script>
+
+    <!-- Captcha -->
+    <script src="https://www.google.com/recaptcha/api.js?onload=vcRecaptchaApiLoaded&amp;render=explicit" async="" defer=""></script>
+
+    <script src="js/lib/angular-recaptcha.min.js"></script>
+
+    <!--Datepicker-->
+    <script src="js/lib/moment-with-locales.js"></script>
+    <script src="js/lib/pikaday.js"></script>
+
+    <!--Autocomplete-->
+    <script src="js/lib/massautocomplete.min.js"></script>
+    <script src="js/lib/fuse.min.js"></script>
+
+    <!-- App Script -->
+    <script src="js/oficinaApp.js"></script>
+    <script src="js/factory/oficinaFactory.js"></script>
+    <script src="js/factory/validacionFactory.js"></script>
+
+    <!-- Controllers -->
+     <script src="js/controllers/v-accordion.js"></script>
+    <script src="js/controllers/simuladorLibranzaController.js"></script>
+    <script src="js/controllers/solicitudLibranzaController.js"></script>
+    <script src="js/controllers/resultadoSolicitudController.js"></script>
+    <script src="js/controllers/solicitudConvenioController.js"></script>
+    <script src="js/controllers/simuladorViviendaController.js"></script>
+    <script src="js/controllers/solicitudViviendaController.js"></script>
+    <script src="js/controllers/simuladorVehiculoController.js"></script>
+    <script src="js/controllers/lookAndFeelController.js"></script>
+    <script src="js/controllers/solicitudVehiculoController.js"></script>
+    <script src="js/controllers/simuladorTCreditoController.js"></script>
+    <script src="js/controllers/simuladorTCreditoDetController.js"></script>
+    <script src="js/controllers/solicitudTCreditoController.js"></script>
+    <script src="js/controllers/simuladorCreditoConsumoController.js"></script>
+    <script src="js/controllers/simuladorCRotativoDetController.js"></script>
+    <script src="js/controllers/simuladorCConsumoDetController.js"></script>
+    <script src="js/controllers/solicitudCreditoConsumoController.js"></script>
+    <script src="js/controllers/simuladorSegurosController.js"></script>
+    <script src="js/controllers/solicitudSegurosController.js"></script>
+  <!--  <script src="js/controllers/controllers.min.js"></script>-->
+
+  <!--TM-->
+    <script src="js/marcacion-utm.js"></script>
+    <script src="js/tm.js"></script>
+    <script src="js/factory/validaciones.component.js"></script>
+
+    <!-- Config-->
+    <script src="config.min.js"></script>
+
+    <!-- Services -->
+    <script src="js/services/libranzaService.js"></script>
+    <script src="js/services/viviendaService.js"></script>
+    <script src="js/services/vehiculoService.js"></script>
+    <script src="js/services/tarjetaCreditoService.js"></script>
+    <script src="js/services/creditoConsumoService.js"></script>
+    <script src="js/services/seguroService.js"></script>
+    <!--<script src="js/services/services.min.js"></script>-->
+    <!--TM-->
+    <script src="js/marcacion-utm.js"></script>
+    <script src="js/tm.js"></script>
+    <script src="js/factory/validaciones.component.js"></script>
+
+
+</main><script type="text/javascript" id="">jQuery(document).ready(function(b){"bancodeoccidente.com.co"==location.pathname?b("div#sp-home-slider .sp-column .sp-module:last-child").remove():"bancodeoccidente.com.co"==location.pathname&&b("div#sp-home-slider .sp-column .sp-module:first-child").remove();var a=window.location.href,d="utm_source",e="utm_medium",f="utm_campaign",g="utm_term",h="utm_content";var c=new Date;var k=c.toISOString();if(sessionStorage.getItem("utm_source")){if(storage_sorce=sessionStorage.getItem("utm_source"),storage_sorce=
+!0,-1<a.indexOf(d+"\x3d"))source_utm=a.substr(a.indexOf(d+"\x3d")+d.length+1).split("\x26")[0],sessionStorage.setItem("utm_source "+k,source_utm),b("\x3cinput type\x3d'text' id\x3d'utmsource' name\x3d'utmsource' hidden value\x3d"+source_utm+" /\x3e").appendTo(".itemExtraFieldsValue form")}else-1<a.indexOf(d+"\x3d")&&(c=a.substr(a.indexOf(d+"\x3d")+d.length+1).split("\x26")[0],sessionStorage.setItem(d,c));if(sessionStorage.getItem("utm_medium")){if(storage_sorce=sessionStorage.getItem("utm_medium"),
+storage_sorce=!0,-1<a.indexOf(e+"\x3d"))source_utm=a.substr(a.indexOf(e+"\x3d")+e.length+1).split("\x26")[0],sessionStorage.setItem("utm_medium "+k,source_utm),b("\x3cinput type\x3d'text' id\x3d'utmmedium' name\x3d'utmmedium' hidden value\x3d"+source_utm+" /\x3e").appendTo(".itemExtraFieldsValue form")}else-1<a.indexOf(e+"\x3d")&&(c=a.substr(a.indexOf(e+"\x3d")+e.length+1).split("\x26")[0],sessionStorage.setItem(e,c));if(sessionStorage.getItem("utm_campaign")){if(storage_sorce=sessionStorage.getItem("utm_campaign"),
+storage_sorce=!0,-1<a.indexOf(f+"\x3d"))source_utm=a.substr(a.indexOf(f+"\x3d")+f.length+1).split("\x26")[0],sessionStorage.setItem("utm_campaign "+k,source_utm),b("\x3cinput type\x3d'text' id\x3d'utmcampaign' name\x3d'utmcampaign' hidden value\x3d"+source_utm+" /\x3e").appendTo(".itemExtraFieldsValue form")}else-1<a.indexOf(f+"\x3d")&&(c=a.substr(a.indexOf(f+"\x3d")+f.length+1).split("\x26")[0],sessionStorage.setItem(f,c));if(sessionStorage.getItem("utm_term")){if(storage_sorce=sessionStorage.getItem("utm_term"),
+storage_sorce=!0,-1<a.indexOf(g+"\x3d"))source_utm=a.substr(a.indexOf(g+"\x3d")+g.length+1).split("\x26")[0],sessionStorage.setItem("utm_term "+k,source_utm),b("\x3cinput type\x3d'text' id\x3d'utmterm' name\x3d'utmterm' hidden value\x3d"+source_utm+" /\x3e").appendTo(".itemExtraFieldsValue form")}else-1<a.indexOf(g+"\x3d")&&(c=a.substr(a.indexOf(g+"\x3d")+g.length+1).split("\x26")[0],sessionStorage.setItem(g,c));if(sessionStorage.getItem("utm_content")){if(storage_sorce=sessionStorage.getItem("utm_content"),
+storage_sorce=!0,-1<a.indexOf(h+"\x3d"))source_utm=a.substr(a.indexOf(h+"\x3d")+h.length+1).split("\x26")[0],sessionStorage.setItem("utm_content "+k,source_utm),b("\x3cinput type\x3d'text' id\x3d'utmcontent' name\x3d'utmcontent' hidden value\x3d"+source_utm+" /\x3e").appendTo(".itemExtraFieldsValue form")}else-1<a.indexOf(h+"\x3d")&&(c=a.substr(a.indexOf(h+"\x3d")+h.length+1).split("\x26")[0],sessionStorage.setItem(h,c));b("section#sp-home-row1 .k2ItemsBlock li").first().attr("class","col-xs-12 col-sm-12 col-md-6 col-lg-12");
+b("section#sp-home-row1 .k2ItemsBlock li:nth-child(2)").attr("class","col-xs-12 col-sm-12 col-md-6 col-lg-4");b("section#sp-home-row1 .k2ItemsBlock li:nth-child(3)").attr("class","col-xs-12 col-sm-12 col-md-6 col-lg-4");b("section#sp-home-row1 .k2ItemsBlock li:nth-child(4)").attr("class","col-xs-12 col-sm-12 col-md-6 col-lg-4")});</script><script type="text/javascript" id="">window.dataLayer=window.dataLayer||[];window.dataLayer.push({originalLocation:document.location.protocol+"//"+document.location.hostname+document.location.pathname+document.location.search});</script><script type="text/javascript" id="">hj("stateChange","\/solicitarcredito\/");</script>
+<iframe name="__bkframe" height="0" width="0" frameborder="0" style="display:none;position:absolute;clip:rect(0px 0px 0px 0px)" src="about:blank"></iframe>
+<script type="text/javascript" id="" src="https://tags.bkrtx.com/js/bk-coretag.js"></script><script type="text/javascript" id="">console.warn("Load - cHTML-event-tracking:OK");
+document.addEventListener("click",function(a){var b=a.target.getAttribute("class");if(b!=a.target.nodeName)var d=window.location.pathname;var c=a.target.nodeName;if("SMALL"==c)var e=a.target.parentNode.innerText.split("\n")[0];var f=a.target.getAttribute("id"),g=a.target.getAttribute("style");a=a.target.outerText;b={classElement:b,pagepath:d,idElement:f,InnerText:a,nodeName:c,styleElement:g,parentNode:e};triggerEvent(b);"undefined"!==typeof debugAttribute&&debugAttr(b)});
+function debugAttr(a){for(var b in a)console.warn(b+" :"+a[b]);console.warn("------------------------------------\x3e\x3e\x3e\x3e\x3e Fin Deguber")};</script><script type="text/javascript" id="">triggerEvent=function(a){"accordion active"==a.classElement&&"/wps/portal/banco-de-occidente/bancodeoccidente/landings/libre-inversion"==a.pagepath&&trackEvent("Libre inversi\u00f3n landing","Tipo de uso",a.InnerText.split("\n")[0]);"SMALL"==a.nodeName&&"/wps/portal/banco-de-occidente/bancodeoccidente/landings/libre-inversion"==a.pagepath&&trackEvent("Libre inversi\u00f3n landing","Tipo de uso",a.parentNode);"btn-ejecutivo-virtual-landing"==a.classElement&&"/wps/portal/banco-de-occidente/bancodeoccidente/landings/libre-inversion"==
+a.pagepath&&"Solic\u00edtalo con tu Ejecutivo Virtual"==a.InnerText&&trackEvent("Libre inversi\u00f3n landing","Bot\u00f3n",a.InnerText);"Ver aqu\u00ed."==a.InnerText&&"/wps/portal/banco-de-occidente/bancodeoccidente/landings/libre-inversion"==a.pagepath&&trackEvent("Libre inversi\u00f3n landing","Terminos y condiciones","Ver aqu\u00ed");"box-check ng-dirty ng-valid-parse ng-touched ng-not-empty ng-valid ng-valid-required"!=a.classElement&&"box-check ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required"!=
+a.classElement||"/wps/portal/banco-de-occidente/bancodeoccidente/landings/libre-inversion"!=a.pagepath||trackEvent("Libre inversi\u00f3n landing","Terminos y condiciones","Chekbox:Check");"btn-enviar"==a.classElement&&"/wps/portal/banco-de-occidente/bancodeoccidente/landings/libre-inversion"==a.pagepath&&"btnEnviarFormulario"==a.idElement&&trackEvent("Libre inversi\u00f3n landing","Bot\u00f3n","Registra tus datos y te contactaremos");"Beneficios y Caracter\u00edsticas"==a.InnerText&&"/wps/portal/banco-de-occidente/bancodeoccidente/landings/financia-occiauto-planeta-azul"==
+a.pagepath&&trackEvent("LandingGarageOcciauto","Men\u00fa","Beneficios y Caracter\u00edsticas");"Condiciones"==a.InnerText&&"/wps/portal/banco-de-occidente/bancodeoccidente/landings/financia-occiauto-planeta-azul"==a.pagepath&&trackEvent("LandingGarageOcciauto","Men\u00fa","Condiciones");"Solicitud"==a.InnerText&&"/wps/portal/banco-de-occidente/bancodeoccidente/landings/financia-occiauto-planeta-azul"==a.pagepath&&trackEvent("LandingGarageOcciauto","Men\u00fa","Solicitud");"Preguntas frecuentes"==
+a.InnerText&&"/wps/portal/banco-de-occidente/bancodeoccidente/landings/financia-occiauto-planeta-azul"==a.pagepath&&trackEvent("LandingGarageOcciauto","Men\u00fa","Preguntas frecuentes");"Ver aqu\u00ed."==a.InnerText&&"/wps/portal/banco-de-occidente/bancodeoccidente/landings/financia-occiauto-planeta-azul"==a.pagepath&&trackEvent("LandingGarageOcciauto","tratamiento de datos personales","Ver aqu\u00ed");"btn-enviar"==a.classElement&&"/wps/portal/banco-de-occidente/bancodeoccidente/landings/financia-occiauto-planeta-azul"==
+a.pagepath&&1==document.querySelector("#fieldTerminos").checked&&trackEvent("LandingGarageOcciauto","tratamiento de datos personales","Verdadero")};</script><script type="text/javascript" id="">trackEvent=function(a,b,c){window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"event",eventCategory:a,eventAction:b,eventLabel:c})};</script><script type="text/javascript" id="" src="//c.oracleinfinity.io/acs/account/iw64uzydss/js/main/odc.js?v="></script><iframe id="_hjSafeContext_13409312" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe>
+<script type="text/javascript" id="">bk_addPageCtx("virtualPage",google_tag_manager["rm"]["2569848"](12));bk_doJSTag(85019,1);</script>
+
+
+<!--DEFINITIONS FOR THE SVGS-->
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" style="position:absolute;">
+    <defs>
+        <symbol viewBox="0 0 164.2 33.5" id="logobancooccidente">
+            <svg width="164" height="34" class="logo"><path d="M64.3 18.8C63.5 19 62.6 19.1 62.2 19.1c-1.5 0.1-1.8-0.5-1.8-2.7 0-2.2 0.3-2.8 1.8-2.7 0.4 0 1.4 0.2 2.1 0.3l0.2-1.3c-0.7-0.1-1.6-0.3-2.2-0.3 -3.3-0.1-4.1 1.2-4.1 4s0.8 4.1 4.1 4c0.7 0 1.6-0.1 2.3-0.3L64.3 18.8z" class="a"></path><path d="M36.9 9.5c2.4 0 3.8 1 3.8 2.9 0 1.1-0.4 1.9-1 2.3 0.8 0.4 1.4 1.1 1.4 2.4 0 2.5-1.7 3.3-3.9 3.3h-4.7V9.5H36.9zM34.7 11v3h2.4c1.1 0 1.5-0.4 1.5-1.7 0-1.1-0.4-1.4-1.6-1.4H34.7zM34.7 15.5v3.2h2.5c1.2 0 1.7-0.3 1.7-1.7 0-1.5-1.1-1.5-1.9-1.5H34.7z" class="a"></path><path d="M42.4 12.8c1.3-0.3 2.2-0.4 3.1-0.4 2.2 0 3.2 1 3.2 2.6v5.2c-1.3 0.2-2.7 0.3-4.1 0.2 -1.8-0.2-2.9-1.1-2.9-2.5 0-1.3 0.8-2.2 2.8-2.5 0.9-0.1 2-0.1 2-0.1v-0.3c0-0.8-0.3-1.2-1-1.2 -0.7 0-1.7 0.2-2.9 0.4L42.4 12.8zM46.5 16.5c0 0-0.7 0-1.4 0.1 -0.7 0.1-1.2 0.5-1.2 1.2 0 0.6 0.2 1.1 1 1.2 0.5 0.1 1 0.1 1.6 0V16.5z" class="a"></path><path d="M68.6 12.4c2.5 0 3.9 1.2 3.9 3.9 0 2.7-0.8 4.1-3.9 4.1 -3.1 0-4-1.3-4-4.1C64.7 13.5 66 12.4 68.6 12.4L68.6 12.4zM70.3 16.3c0-2-0.7-2.6-1.7-2.6 -1.3 0-1.8 0.4-1.8 2.5 0 2.2 0.3 2.8 1.8 2.8C70.1 19.1 70.3 18.4 70.3 16.3" class="a"></path><path d="M81.4 9.5h2.2v10.7c-1.2 0.1-2 0.2-2.9 0.2 -3.7 0-4.4-1.5-4.4-4.2 0-2.4 0.8-3.8 3.6-3.8 0.6 0 1.1 0 1.5 0.1V9.5zM81.4 13.8c-0.4-0.1-0.9-0.2-1.5-0.1 -1.1 0.1-1.3 0.8-1.3 2.6 0 1.9 0.2 2.7 1.8 2.8 0.6 0 1 0 1 0V13.8z" class="a"></path><path d="M91.7 20c-1.2 0.2-2.3 0.4-3.3 0.4 -3.2 0-3.9-1.7-3.9-4 0-2.9 1.4-4 3.7-4 2.5 0 3.8 1.2 3.8 3.7v0.9h-5.2c0.1 1.4 0.4 2.1 1.6 2.1 0.7 0 2.3-0.2 3.1-0.4L91.7 20zM89.8 15.7c-0.1-1.5-0.5-2-1.5-2 -1 0-1.4 0.5-1.5 2L89.8 15.7z" class="a"></path><path d="M49.8 13.2c1.3-0.5 2.4-0.8 3.7-0.8 2.8 0 3.8 1.4 3.8 3.8v4h-2.2v-4c0-1.9-0.4-2.5-1.6-2.5 -0.6 0-1.2 0.1-1.6 0.2v6.3h-2.1V13.2z" class="a"></path><g class="logosimbolocc"><polygon points="2 18.7 14.2 30.9 26.4 18.7 23.5 15.9 14.2 25.2 7.7 18.7 14.2 12.2 17 15 19.8 12.2 14.2 6.5 "></polygon><polygon points="26.4 12.2 14.2 0 2 12.2 4.8 15 14.2 5.6 20.7 12.2 14.2 18.7 11.4 15.9 8.6 18.7 14.2 24.3 "></polygon></g><path d="M119.5 18.8c-0.8 0.2-1.6 0.2-2.1 0.3 -1.5 0.1-1.8-0.5-1.8-2.7 0-2.2 0.3-2.8 1.8-2.7 0.4 0 1.4 0.2 2.1 0.3l0.2-1.3c-0.7-0.1-1.6-0.3-2.2-0.3 -3.3-0.1-4.1 1.2-4.1 4s0.8 4.1 4.1 4c0.7 0 1.6-0.1 2.3-0.3L119.5 18.8z" class="a"></path><path d="M112.8 18.8c-0.8 0.2-1.6 0.2-2.1 0.3 -1.5 0.1-1.8-0.5-1.8-2.7 0-2.2 0.3-2.8 1.8-2.7 0.4 0 1.4 0.2 2.1 0.3l0.2-1.3c-0.7-0.1-1.6-0.3-2.2-0.3 -3.3-0.1-4.1 1.2-4.1 4s0.8 4.1 4.1 4c0.7 0 1.6-0.1 2.3-0.3L112.8 18.8z" class="a"></path><path d="M105.9 14.7c0 3.7-1 5.7-5 5.7 -4 0-5.1-1.7-5.1-5.7 0-3.8 1.6-5.3 5.1-5.3C104 9.3 105.9 10.9 105.9 14.7M100.8 18.9c2.4 0 2.8-1.2 2.8-4.2 0-2.9-1.1-3.8-2.8-3.8 -2.1 0-2.9 0.8-2.9 3.8C97.9 17.8 98.4 18.9 100.8 18.9z" class="a"></path><path d="M120.7 9.7h2.1v1.6h-2.1V9.7zM120.7 12.5h2.1v7.7h-2.1V12.5z" class="a"></path><path d="M129 9.5h2.2v10.7c-1.2 0.1-2 0.2-2.9 0.2 -3.7 0-4.4-1.5-4.4-4.2 0-2.4 0.8-3.8 3.6-3.8 0.6 0 1.1 0 1.5 0.1V9.5zM129 13.8c-0.4-0.1-0.9-0.2-1.5-0.1 -1.1 0.1-1.3 0.8-1.3 2.6 0 1.9 0.2 2.7 1.8 2.8 0.1 0 0.2 0 0.4 0 0.2 0 0.4 0 0.6 0V13.8z" class="a"></path><path d="M140.8 13.2c1.3-0.5 2.4-0.8 3.7-0.8 2.8 0 3.8 1.4 3.8 3.8v4h-2.2v-4c0-1.9-0.4-2.5-1.6-2.5 -0.6 0-1.2 0.1-1.6 0.2v6.3h-2.1V13.2z" class="a"></path><path d="M152.3 10.7v1.8h1.7v1.3h-1.7v3.8c0 0.9 0.1 1.2 0.4 1.3 0.3 0 0.7 0 1.3-0.1l0.3 1.3c-0.9 0.2-1.6 0.2-1.9 0.2 -1.9 0-2.2-0.9-2.2-2.7v-3.8h-1.3v-1.3h1.3v-1.8H152.3z" class="a"></path><path d="M139.5 20c-1.2 0.2-2.3 0.4-3.3 0.4 -3.2 0-3.9-1.7-3.9-4 0-2.9 1.4-4 3.7-4 2.5 0 3.8 1.2 3.8 3.7v0.9h-5.2c0.1 1.4 0.4 2.1 1.6 2.1 0.7 0 2.3-0.2 3.1-0.4L139.5 20zM137.6 15.7c-0.1-1.5-0.5-2-1.5-2 -1 0-1.4 0.5-1.5 2H137.6z" class="a"></path><path d="M161.7 20c-1.2 0.2-2.3 0.4-3.3 0.4 -3.2 0-3.9-1.7-3.9-4 0-2.9 1.4-4 3.7-4 2.5 0 3.8 1.2 3.8 3.7v0.9h-5.2c0.1 1.4 0.4 2.1 1.6 2.1 0.7 0 2.3-0.2 3.1-0.4L161.7 20zM159.8 15.7c-0.1-1.5-0.5-2-1.5-2 -1 0-1.4 0.5-1.5 2L159.8 15.7z" class="a"></path></svg>
+        </symbol>
+        <symbol id="toggler">
+            <svg width="50" height="50"><path d="M44.7 38.8c0 3.1-2.5 5.7-5.7 5.7H11.4c-3.1 0-5.7-2.5-5.7-5.7V11.1c0-3.1 2.5-5.7 5.7-5.7H39c3.1 0 5.7 2.5 5.7 5.7V38.8zM43.7 11.2c0-2.6-2.1-4.8-4.8-4.8H11.5c-2.6 0-4.8 2.1-4.8 4.8V38.7c0 2.6 2.1 4.8 4.8 4.8h27.4c2.6 0 4.8-2.1 4.8-4.8V11.2z" class="a"></path><path d="M38.6 17.5H12.5c-0.2 0-0.4-0.3-0.4-0.5s0.2-0.5 0.4-0.5h26.1c0.2 0 0.4 0.3 0.4 0.5S38.9 17.5 38.6 17.5z" class="a"></path><path d="M38.6 25.5H12.5c-0.2 0-0.4-0.3-0.4-0.5 0-0.2 0.2-0.5 0.4-0.5h26.1c0.2 0 0.4 0.3 0.4 0.5C39.1 25.2 38.9 25.5 38.6 25.5z" class="a"></path><path d="M38.6 33.5H12.5c-0.2 0-0.4-0.3-0.4-0.5s0.2-0.5 0.4-0.5h26.1c0.2 0 0.4 0.3 0.4 0.5S38.9 33.5 38.6 33.5z" class="a"></path></svg>
+        </symbol>
+        <symbol viewBox="0 0 30 40" id="simuladorcredito">
+            <svg width="30" height="40"><g opacity="1"><path d="M24.7 5H6.6C5.2 5 4 6.6 4 8.1v24.3C4 33.8 5.2 35 6.6 35h18.1C26.1 35 27 33.8 27 32.4V8.1C27 6.6 26.1 5 24.7 5zM10.7 31.7c-1.7 0-3.1-1.4-3.1-3.1 0-1.7 1.4-3.1 3.1-3.1 1.7 0 3.1 1.4 3.1 3.1C13.8 30.4 12.4 31.7 10.7 31.7zM10.7 24.1c-1.7 0-3.1-1.4-3.1-3.1 0-1.7 1.4-3.1 3.1-3.1 1.7 0 3.1 1.4 3.1 3.1C13.8 22.7 12.4 24.1 10.7 24.1zM20.7 31.7c-1.7 0-3.1-1.4-3.1-3.1 0-1.7 1.4-3.1 3.1-3.1 1.7 0 3.1 1.4 3.1 3.1C23.8 30.4 22.4 31.7 20.7 31.7zM17.6 21c0-1.7 1.4-3.1 3.1-3.1 1.7 0 3.1 1.4 3.1 3.1 0 1.7-1.4 3.1-3.1 3.1C19 24.1 17.6 22.7 17.6 21zM24 12.9c0 1.4-0.3 1.1-1.7 1.1H9.1C7.7 14 6 14.4 6 12.9v-2.4C6 9.1 7.7 7 9.1 7h13.2C23.7 7 24 9.1 24 10.5V12.9z" class="a"></path><path d="M12.3 27.9c0.3 0 0.5 0.2 0.5 0.6l0 0c0 0.3-0.2 0.5-0.5 0.5H9c-0.3 0-0.5-0.2-0.5-0.5l0 0c0-0.3 0.2-0.5 0.5-0.5H12.3z" class="a"></path><path d="M22.3 20.2h-1.1v-1.1c0-0.3-0.2-0.5-0.5-0.5 -0.3 0-0.5 0.2-0.5 0.5v1.1h-1.1c-0.3 0-0.5 0.2-0.5 0.5 0 0.3 0.2 0.5 0.5 0.5h1.1v1.1c0 0.3 0.2 0.5 0.6 0.5 0.3 0 0.5-0.2 0.5-0.5v-1.1h1.1c0.3 0 0.5-0.2 0.5-0.5C22.9 20.5 22.6 20.2 22.3 20.2z" class="a"></path><path d="M12.2 21.5l-0.8-0.7 0.7-0.8c0.2-0.2 0.2-0.6 0-0.8 -0.2-0.2-0.6-0.2-0.8 0l-0.7 0.8 -0.8-0.7c-0.2-0.2-0.6-0.2-0.8 0 -0.2 0.2-0.2 0.6 0 0.8l0.8 0.7 -0.7 0.8c-0.2 0.2-0.2 0.6 0 0.8 0.2 0.2 0.6 0.2 0.8 0l0.7-0.8 0.8 0.7c0.2 0.2 0.6 0.2 0.8 0C12.5 22 12.5 21.7 12.2 21.5z" class="a"></path><path d="M22.3 28.6c0.3 0 0.5 0.2 0.5 0.6l0 0c0 0.3-0.2 0.5-0.5 0.5h-3.2c-0.3 0-0.6-0.2-0.6-0.5l0 0c0-0.3 0.2-0.5 0.6-0.5H22.3z" class="a"></path><path d="M22.3 27.1c0.3 0 0.5 0.2 0.5 0.5l0 0c0 0.3-0.2 0.5-0.5 0.5h-3.2c-0.3 0-0.6-0.2-0.6-0.5l0 0c0-0.3 0.2-0.5 0.6-0.5H22.3z" class="a"></path></g></svg>
+        </symbol>
+        <symbol viewBox="0 0 30 40" id="solicitudproductos">
+            <svg width="30" height="40"><polygon points="13.4 24.4 12.8 25.5 11.6 25.2 4.2 23.1 4.2 28.4 14.3 31.1 14.3 22.6 " class="a"></polygon><polygon points="17.3 25.5 16.7 24.4 15.8 22.6 15.8 31.1 25.9 28.4 25.9 23.1 18.5 25.2 " class="a"></polygon><polygon points="18.1 23.7 28.9 20.7 25.9 14.7 15 17.7 " class="a"></polygon><polygon points="12 23.7 15 17.7 4.2 14.7 1.2 20.7 " class="a"></polygon><polygon points="27 13.5 30.1 9.9 19.3 6.9 15 11.7 23.1 13.9 25.9 14.7 " class="a"></polygon><polygon points="7 13.9 15 11.7 10.8 6.9 -0.1 9.9 3.1 13.5 4.2 14.7 " class="a"></polygon></svg>
+        </symbol>
+        <symbol viewBox="0 0 30 40" id="beneficiossolicitud">
+            <svg width="30" height="40" viewBox="0 0 30 40"><path d="M24.1 10.6c-0.9-0.3-4.6-1.3-7.5 1.2 0.4 0.7 0.7 1.4 1 2.3 0.3-0.3 0.6-0.6 0.9-0.8 0.6-0.4 1.3-0.1 2 0.6 0.1 0.1 0.1 0.2 0.1 0.3 0 0.3-0.4 0.6-0.9 1 -0.2 0.2-0.4 0.3-0.5 0.4 -0.5 0.5-0.8 1.1-1.1 1.6 0.2 3.3-1.2 6.1-2.7 8 0.8 1.2 1.6 2.1 2 2.6L16 29.2c-0.1 0.1-0.1 0.2-0.1 0.3 0 0.1 0.1 0.2 0.2 0.2l3.3 1.1c0.1 0 0.2 0 0.3-0.1 0.1-0.1 0.1-0.2 0.1-0.2l-0.3-1.9c1.7-0.3 7.8-1.7 9.7-7.3C31.6 13.5 25.3 11 24.1 10.6z" class="a"></path><path d="M16.4 16.2c-1.1-6.2-5.4-7.2-7.8-7.2 -0.7 0-1.2 0.1-1.5 0.1 -1.3 0.2-7.9 1.8-6.5 9.8 1 5.8 7 8 8.6 8.6l-0.6 1.8c0 0.1 0 0.2 0.1 0.3 0.1 0.1 0.1 0.1 0.2 0.1 0 0 0 0 0 0l3.4-0.6c0.1 0 0.2-0.1 0.2-0.2 0-0.1 0-0.2 0-0.3l-1.2-1.5C12.6 26.1 17.4 22 16.4 16.2zM5.3 15.3c-0.1 0.2-0.2 0.5-0.3 0.6 -0.2 0.8-0.2 1.6-0.2 2.2 0 0.6 0 1-0.3 1.1 -0.1 0-0.2 0.1-0.4 0.1 -0.1 0-0.2 0-0.3 0 -0.2 0-0.4 0-0.6-0.1 0 0-0.1-0.1-0.1-0.1 0-0.1-1.1-3 0.1-5 0.2-0.4 0.6-0.6 1.1-0.6 0.3 0 0.6 0.1 1 0.2 0.1 0 0.2 0.1 0.3 0.2C5.7 14.3 5.6 14.7 5.3 15.3z" class="a"></path></svg>
+        </symbol>
+        <symbol viewBox="0 0 30 40" id="contactanos">
+            <svg id="Capa_1" width="30" height="40"><ellipse cx="15" cy="19.4" rx="14.2" ry="14.1" fill="#29ABE2"></ellipse><path d="M21.7 23.3l-3.3-1.9c-0.2-0.1-0.4 0-0.6 0.1l-1 1c-0.1 0.1-0.4 0.2-0.6 0.3 0 0-1.2 0-3.5-2.3 -2.3-2.3-2.3-3.5-2.3-3.5 0-0.2 0.1-0.5 0.2-0.6l0.8-0.8c0.1-0.1 0.2-0.4 0.1-0.6l-1.8-3.4c-0.1-0.2-0.3-0.2-0.4-0.1l-2.2 2.2c-0.1 0.1-0.3 0.4-0.3 0.6 0 0-0.4 3.3 4.2 7.8 4.6 4.6 7.9 4.1 7.9 4.1 0.2 0 0.5-0.2 0.6-0.3l2.2-2.2C21.9 23.6 21.9 23.4 21.7 23.3z" class="a"></path><path d="M13.7 17.2c0.5 0.1 0.9 0.4 1.3 0.7 0.4 0.4 0.6 0.8 0.7 1.3h0.9c-0.1-0.7-0.4-1.4-1-2 -0.5-0.5-1.2-0.9-2-1V17.2z" class="a"></path><path d="M20.6 19.2h1.1c-0.1-4.1-3.8-7.8-8-7.9v1.1C17.4 12.6 20.4 15.6 20.6 19.2z" class="a"></path><path d="M18.1 19.2h1.1c-0.2-2.9-2.6-5.2-5.5-5.4v1.1C16 15.1 17.9 16.9 18.1 19.2z" class="a"></path></svg>
+        </symbol>
+        <symbol viewBox="0 0 28 28" id="linkedin">
+            <svg width="28" height="28"><path d="M14 0C6.3 0 0 6.3 0 14s6.3 14 14 14S28 21.7 28 14 21.7 0 14 0zM9.8 21.5c0 0 0 0 0 0.1 0 0.1 0 0.1-0.1 0.1 -0.1 0-0.2 0-0.3 0 -0.2 0-0.3 0-0.5 0 -0.5 0-1 0-1.6 0 -0.2 0-0.4 0-0.5 0 -0.1 0-0.2 0-0.2 0 0 0-0.1-0.1-0.1-0.1 0-0.3 0-0.6 0-0.9 0 0 0-0.1 0-0.1 0-2.9 0-5.9 0-8.9 0 0 0-0.1 0-0.1 0 0 0-0.1 0.1-0.1 0 0 0.1 0 0.1 0 0.4 0 0.8 0 1.2 0 0.6 0 1.1 0 1.7 0 0 0 0.1 0 0.1 0 0.1 0 0.1 0 0.1 0.1 0 0 0 0.1 0 0.1 0 3 0 6 0 9C9.8 21 9.8 21.2 9.8 21.5zM9.5 9.6C9.2 9.9 8.8 10.1 8.4 10.1 7.9 10.2 7.4 10 7 9.7 6.7 9.4 6.5 9 6.4 8.6 6.4 8.6 6.4 8.5 6.4 8.5 6.4 8.5 6.4 8.5 6.4 8.5c0 0 0-0.1 0-0.1 0-0.1 0-0.1 0-0.2 0 0 0 0 0-0.1s0 0 0-0.1c0 0 0 0 0 0 0 0 0 0 0 0 0-0.2 0.1-0.4 0.2-0.6 0.2-0.3 0.4-0.5 0.6-0.7C7.5 6.5 7.7 6.4 8 6.4h0c0 0 0 0 0 0 0 0 0 0 0.1 0H8.1c0 0 0 0 0.1 0 0.1 0 0.1 0 0.2 0 0 0 0 0 0.1 0h0c0 0 0 0 0.1 0 0 0 0 0 0 0 0.2 0 0.4 0.1 0.6 0.2 0.5 0.3 0.9 0.7 1 1.3C10.2 8.6 10 9.2 9.5 9.6zM21.6 21.7c0 0 0 0 0 0 -0.7 0-1.5 0-2.2 0 -0.2 0-0.4 0-0.6 0 -0.1 0-0.2 0-0.3 0 -0.1 0-0.1-0.1-0.1-0.1 0 0 0-0.1 0-0.1 0-1.8 0-3.6 0-5.4 0-0.4-0.1-0.8-0.2-1.2 -0.2-0.4-0.6-0.7-1-0.8 -0.2 0-0.5 0-0.7 0 -0.6 0.1-1 0.4-1.2 1 -0.1 0.3-0.2 0.6-0.2 0.9 0 0.5 0 0.9 0 1.4 0 1.3 0 2.7 0 4 0 0 0 0.1 0 0.1 0 0 0 0.1-0.1 0.1h0c0 0 0 0 0 0h0c-0.7 0-1.5 0-2.2 0 -0.2 0-0.3 0-0.5 0 -0.1 0-0.2 0-0.3 0 0 0-0.1-0.1-0.1-0.1 0-0.1 0-0.1 0-0.2 0-1 0-2.1 0-3.1 0-1.1 0-2.2 0-3.3 0-1.1 0-2.2 0-3.3 0 0 0 0 0-0.1 0-0.1 0-0.1 0.1-0.1 0.1 0 0.2 0 0.3 0 0.8 0 1.7 0 2.5 0 0 0 0 0 0.1 0 0.1 0 0.1 0 0.1 0.1 0 0.1 0 0.2 0 0.3 0 0.3 0 0.6 0 0.9 0 0 0 0 0 0 0 0 0 0 0-0.1 0.2-0.4 0.5-0.7 0.9-0.9 0.4-0.3 0.9-0.5 1.4-0.6 0.3-0.1 0.7-0.1 1-0.1 0.5 0 1 0.1 1.4 0.3 0.7 0.3 1.2 0.8 1.6 1.5 0.2 0.4 0.3 0.7 0.4 1.1 0.1 0.3 0.1 0.6 0.1 0.8 0 0.3 0 0.6 0 0.9l0 0c0 0 0 0.1 0 0.1 0 0 0 0 0 0.1 0 0 0 0 0 0.1 0 0 0 0 0 0.1 0 0 0 0.1 0 0.1 0 1.8 0 3.6 0 5.4C21.6 21.6 21.6 21.7 21.6 21.7z" style="fill:#021E4C;opacity:0.8"></path></svg>
+        </symbol>
+        <symbol id="youtube" viewBox="0 0 28 28">
+            <svg width="28" height="28"><path d="M14 0C6.3 0 0 6.3 0 14 0 21.7 6.3 28 14 28 21.7 28 28 21.7 28 14 28 6.3 21.7 0 14 0zM9.9 20.5v-3.3 -6.1V7.9l10.9 6.3L9.9 20.5z" style="fill:#021E4C;opacity:0.8"></path></svg>
+        </symbol>
+        <symbol viewBox="0 0 28 28" id="twitter">
+            <svg width="28" height="28"><path d="M14 0C6.3 0 0 6.3 0 14c0 7.7 6.3 14 14 14S28 21.7 28 14C28 6.3 21.7 0 14 0zM21 10.5c0 0.2 0 0.3 0 0.5 0 4.6-3.5 10-10 10 -2 0-3.8-0.6-5.4-1.6 0.3 0 0.6 0 0.8 0 1.6 0 3.2-0.6 4.4-1.5 -1.5 0-2.8-1-3.3-2.4 0.2 0 0.4 0.1 0.7 0.1 0.3 0 0.6 0 0.9-0.1 -1.6-0.3-2.8-1.7-2.8-3.4 0 0 0 0 0 0 0.5 0.3 1 0.4 1.6 0.4 -0.9-0.6-1.6-1.7-1.6-2.9 0-0.6 0.2-1.2 0.5-1.8 1.7 2.1 4.3 3.5 7.2 3.7 -0.1-0.3-0.1-0.5-0.1-0.8 0-1.9 1.6-3.5 3.5-3.5 1 0 1.9 0.4 2.6 1.1 0.8-0.2 1.6-0.4 2.2-0.9 -0.3 0.8-0.8 1.5-1.5 1.9 0.7-0.1 1.4-0.3 2-0.6C22.3 9.4 21.7 10 21 10.5z" style="fill:#021E4C;opacity:0.8"></path></svg>
+        </symbol>
+        <symbol viewBox="0 0 28 28" id="facebook">
+            <svg width="28" height="28"><path d="M14 0C6.3 0 0 6.3 0 14s6.3 14 14 14 14-6.3 14-14S21.7 0 14 0zM18.9 7.5l-1.8 0c-1.4 0-1.6 0.7-1.6 1.6v2.1h3.3l-0.4 3.3h-2.9v8.5h-3.4v-8.5H9.1v-3.3h2.9v-2.4c0-2.8 1.7-4.4 4.3-4.4 1.2 0 2.3 0.1 2.6 0.1V7.5z" style="fill:#021E4C;opacity:0.8"></path></svg>
+        </symbol>
+    </defs>
+</svg>
+
+
+
+
+<img src="https://t.co/1/i/adsct?bci=4&amp;eci=3&amp;event=%7B%7D&amp;event_id=d91ab369-4c45-4aab-9fd9-4b4a91274709&amp;integration=gtm&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=76654768-06e4-490d-870c-ff8ed5d97538&amp;tw_document_href=https%3A%2F%2Fwww.bancodeoccidente.com.co%2Fsolicitarcredito%2F%23%2FsimuladorLibranza&amp;tw_iframe_status=0&amp;txn_id=oecfg&amp;type=javascript&amp;version=2.3.29" height="1" width="1" style="display: none;"><img src="https://analytics.twitter.com/1/i/adsct?bci=4&amp;eci=3&amp;event=%7B%7D&amp;event_id=d91ab369-4c45-4aab-9fd9-4b4a91274709&amp;integration=gtm&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=76654768-06e4-490d-870c-ff8ed5d97538&amp;tw_document_href=https%3A%2F%2Fwww.bancodeoccidente.com.co%2Fsolicitarcredito%2F%23%2FsimuladorLibranza&amp;tw_iframe_status=0&amp;txn_id=oecfg&amp;type=javascript&amp;version=2.3.29" height="1" width="1" style="display: none;"><div style="display: none; visibility: hidden;"><script>document.open();document.write('\x3cmeta name\x3d"facebook-domain-verification" content\x3d"u0q6hj59aa7bbbvo26bjv6s7xh41l6" /\x3e');document.close();</script><meta name="facebook-domain-verification" content="u0q6hj59aa7bbbvo26bjv6s7xh41l6">
+
+</div><div style="display: none; visibility: hidden;">
+<script>!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1651016381807242");fbq("track","PageView");</script>
+<noscript></noscript>
+
+</div><div style="display: none; visibility: hidden;"><script>(function(){setTimeout(function(){var c="true"==google_tag_manager["rm"]["2569848"](17);1==c&&console.log("-----Activado el envio de todos los campos");var b="form[name\x3d'simuladorLibranzaForm']";window.simuladorLibranzaFormHistory=[];window.simuladorLibranzaUltimoCampo={};window.addEventListener("beforeunload",function(){0<simuladorLibranzaFormHistory.length&&(window.dataLayer=window.dataLayer||[],console.log(simuladorLibranzaFormHistory.join(" \x3e ")),window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Abandonado",
+eventCategory:"Formulario | Abandono | Simulador | Libranza",eventLabel:simuladorLibranzaFormHistory.join(" \x3e ")}));for(key in simuladorLibranzaUltimoCampo)window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador \u00daltimo Campo",eventCategory:"Formulario | Campo Simulador | Libranza | "+key,eventLabel:simuladorLibranzaUltimoCampo[key]})});document.querySelector(b+" input[name\x3d'convenio']").addEventListener("change",function(d){simuladorLibranzaFormHistory.push("Empresa");
+simuladorLibranzaUltimoCampo.Empresa=document.querySelector(b+" input[name\x3d'convenio']").value;1==c&&window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador Campos",eventCategory:"Formulario | Campo Simulador | Libranza | Empresa",eventLabel:document.querySelector(b+" input[name\x3d'convenio']").value})},!1);document.querySelector(b+" input[name\x3d'valorSolicitado']").addEventListener("change",function(d){simuladorLibranzaFormHistory.push("Valor Solicitado");simuladorLibranzaUltimoCampo["Valor Solicitado"]=
+document.querySelector(b+" input[name\x3d'valorSolicitado']").value;1==c&&window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador Campos",eventCategory:"Formulario | Campo Simulador | Libranza | Valor Solicitado",eventLabel:document.querySelector(b+" input[name\x3d'valorSolicitado']").value})},!1);document.querySelector(b+" select[name\x3d'plazo']").addEventListener("change",function(d){simuladorLibranzaFormHistory.push("Plazo");simuladorLibranzaUltimoCampo.Plazo=document.querySelector(b+
+" select[name\x3d'plazo']").value;1==c&&window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador Campos",eventCategory:"Formulario | Campo Simulador | Libranza | Plazo",eventLabel:document.querySelector(b+" select[name\x3d'plazo']").value})},!1)},1E3)})();
+(function(){setTimeout(function(){var c="form[name\x3d'solicitudLibranzaForm']",b="form[name\x3d'solicitudLibranzaForm2']",d="form[name\x3d'solicitudLibranzaForm3']";document.querySelector(c)&&(window.solicitudLibranzaFormHistory=[],window.addEventListener("beforeunload",function(){0<solicitudLibranzaFormHistory.length&&(window.dataLayer=window.dataLayer||[],console.log(solicitudLibranzaFormHistory.join(" \x3e ")),window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Abandonado",eventCategory:"Formulario | Abandono | Solicitud | Libranza",
+eventLabel:solicitudLibranzaFormHistory.join(" \x3e ")}))}),document.querySelector(c+" input[name\x3d'convenio']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Nombre")},!1),document.querySelector(c+" input[name\x3d'nombre']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Nombre")},!1),document.querySelector(c+" input[name\x3d'apellido']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Apellidos")},!1),document.querySelector(c+
+" select[id\x3d'tipoid']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Tipo Documento")},!1),document.querySelector(c+" input[name\x3d'numeroIdentificacion']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("No. Documento")},!1),document.querySelector(c+" input[name\x3d'celular']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Celular")},!1),document.querySelector(c+" input[id\x3d'fijo']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Tel\u00e9fono")},
+!1),document.querySelector(c+" input[name\x3d'email']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Email")},!1),document.querySelector(c+" input[name\x3d'ciudad']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Ciudad")},!1),document.querySelector(b+" input[name\x3d'fechanacimiento']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Fecha Nacimiento")},!1),document.querySelector(b+" input[id\x3d'asalariado']").addEventListener("change",
+function(a){solicitudLibranzaFormHistory.push("Perfil Asalariado")},!1),document.querySelector(b+" input[id\x3d'pensionado']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Perfil Pensionado")},!1),document.querySelector(b+" input[name\x3d'fechaexpediciondocumento']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Fecha Expecidion Doc.")},!1),document.querySelector(b+" select[id\x3d'tipocontrato']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Tipo Contrato")},
+!1),document.querySelector(b+" input[name\x3d'periodocontratadoinicio']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Periodo Contrato Inicio")},!1),document.querySelector(b+" input[name\x3d'periodocontratadofin']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Periodo Contrato Fin")},!1),document.querySelector(b+" input[name\x3d'ingresoxnomina']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Ingresos N\u00f3mina")},
+!1),document.querySelector(b+" input[name\x3d'deduccionesnomina']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Deducciones N\u00f3mina")},!1),document.querySelector(b+" input[name\x3d'propia']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Tipo Vivienda Propia")},!1),document.querySelector(b+" input[name\x3d'otras']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Tipo Vivienda Otras")},!1),document.querySelector(b+
+" input[name\x3d'ingresosadicionales']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Ingresos Adicional")},!1),document.querySelector(d+" input[name\x3d'valorSolicitado']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Monto a Solicitar")},!1),document.querySelector(d+" select[id\x3d'perfil']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Plazo")},!1),document.querySelector(d+" button[type\x3d'submit']").addEventListener("click",
+function(a){solicitudLibranzaFormHistory.push("Solicitar");window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Finalizado",eventCategory:"Formulario | Finalizaci\u00f3n | Solicitud | Libranza",eventLabel:solicitudLibranzaFormHistory.join(" \x3e ")});solicitudLibranzaFormHistory=[]},!1))},1E3)})();</script></div><div style="display: none; visibility: hidden;"><script>(function(){setTimeout(function(){var c="true"==google_tag_manager["rm"]["2569848"](19);1==c&&console.log("-----Activado el envio de todos los campos");var b="form[name\x3d'simuladorLibranzaForm']";window.simuladorLibranzaFormHistory=[];window.simuladorLibranzaUltimoCampo={};window.addEventListener("beforeunload",function(){0<simuladorLibranzaFormHistory.length&&(window.dataLayer=window.dataLayer||[],console.log(simuladorLibranzaFormHistory.join(" \x3e ")),window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Abandonado",
+eventCategory:"Formulario | Abandono | Simulador | Libranza",eventLabel:simuladorLibranzaFormHistory.join(" \x3e ")}));for(key in simuladorLibranzaUltimoCampo)window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador \u00daltimo Campo",eventCategory:"Formulario | Campo Simulador | Libranza | "+key,eventLabel:simuladorLibranzaUltimoCampo[key]})});document.querySelector(b+" input[name\x3d'convenio']").addEventListener("change",function(d){simuladorLibranzaFormHistory.push("Empresa");
+simuladorLibranzaUltimoCampo.Empresa=document.querySelector(b+" input[name\x3d'convenio']").value;1==c&&window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador Campos",eventCategory:"Formulario | Campo Simulador | Libranza | Empresa",eventLabel:document.querySelector(b+" input[name\x3d'convenio']").value})},!1);document.querySelector(b+" input[name\x3d'valorSolicitado']").addEventListener("change",function(d){simuladorLibranzaFormHistory.push("Valor Solicitado");simuladorLibranzaUltimoCampo["Valor Solicitado"]=
+document.querySelector(b+" input[name\x3d'valorSolicitado']").value;1==c&&window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador Campos",eventCategory:"Formulario | Campo Simulador | Libranza | Valor Solicitado",eventLabel:document.querySelector(b+" input[name\x3d'valorSolicitado']").value})},!1);document.querySelector(b+" select[name\x3d'plazo']").addEventListener("change",function(d){simuladorLibranzaFormHistory.push("Plazo");simuladorLibranzaUltimoCampo.Plazo=document.querySelector(b+
+" select[name\x3d'plazo']").value;1==c&&window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador Campos",eventCategory:"Formulario | Campo Simulador | Libranza | Plazo",eventLabel:document.querySelector(b+" select[name\x3d'plazo']").value})},!1)},1E3)})();
+(function(){setTimeout(function(){var c="form[name\x3d'solicitudLibranzaForm']",b="form[name\x3d'solicitudLibranzaForm2']",d="form[name\x3d'solicitudLibranzaForm3']";document.querySelector(c)&&(window.solicitudLibranzaFormHistory=[],window.addEventListener("beforeunload",function(){0<solicitudLibranzaFormHistory.length&&(window.dataLayer=window.dataLayer||[],console.log(solicitudLibranzaFormHistory.join(" \x3e ")),window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Abandonado",eventCategory:"Formulario | Abandono | Solicitud | Libranza",
+eventLabel:solicitudLibranzaFormHistory.join(" \x3e ")}))}),document.querySelector(c+" input[name\x3d'convenio']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Nombre")},!1),document.querySelector(c+" input[name\x3d'nombre']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Nombre")},!1),document.querySelector(c+" input[name\x3d'apellido']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Apellidos")},!1),document.querySelector(c+
+" select[id\x3d'tipoid']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Tipo Documento")},!1),document.querySelector(c+" input[name\x3d'numeroIdentificacion']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("No. Documento")},!1),document.querySelector(c+" input[name\x3d'celular']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Celular")},!1),document.querySelector(c+" input[id\x3d'fijo']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Tel\u00e9fono")},
+!1),document.querySelector(c+" input[name\x3d'email']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Email")},!1),document.querySelector(c+" input[name\x3d'ciudad']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Ciudad")},!1),document.querySelector(b+" input[name\x3d'fechanacimiento']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Fecha Nacimiento")},!1),document.querySelector(b+" input[id\x3d'asalariado']").addEventListener("change",
+function(a){solicitudLibranzaFormHistory.push("Perfil Asalariado")},!1),document.querySelector(b+" input[id\x3d'pensionado']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Perfil Pensionado")},!1),document.querySelector(b+" input[name\x3d'fechaexpediciondocumento']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Fecha Expecidion Doc.")},!1),document.querySelector(b+" select[id\x3d'tipocontrato']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Tipo Contrato")},
+!1),document.querySelector(b+" input[name\x3d'periodocontratadoinicio']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Periodo Contrato Inicio")},!1),document.querySelector(b+" input[name\x3d'periodocontratadofin']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Periodo Contrato Fin")},!1),document.querySelector(b+" input[name\x3d'ingresoxnomina']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Ingresos N\u00f3mina")},
+!1),document.querySelector(b+" input[name\x3d'deduccionesnomina']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Deducciones N\u00f3mina")},!1),document.querySelector(b+" input[name\x3d'propia']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Tipo Vivienda Propia")},!1),document.querySelector(b+" input[name\x3d'otras']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Tipo Vivienda Otras")},!1),document.querySelector(b+
+" input[name\x3d'ingresosadicionales']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Ingresos Adicional")},!1),document.querySelector(d+" input[name\x3d'valorSolicitado']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Monto a Solicitar")},!1),document.querySelector(d+" select[id\x3d'perfil']").addEventListener("change",function(a){solicitudLibranzaFormHistory.push("Plazo")},!1),document.querySelector(d+" button[type\x3d'submit']").addEventListener("click",
+function(a){solicitudLibranzaFormHistory.push("Solicitar");window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Finalizado",eventCategory:"Formulario | Finalizaci\u00f3n | Solicitud | Libranza",eventLabel:solicitudLibranzaFormHistory.join(" \x3e ")});solicitudLibranzaFormHistory=[]},!1))},1E3)})();</script></div><div style="display: none; visibility: hidden;"><script>(function(){var b="true"==google_tag_manager["rm"]["2569848"](21);1==b&&console.log("-----Activado el envio de todos los campos");var a="form[name\x3d'simuladorVehiculoForm']";document.querySelector(a)&&(window.simuladorVehiculoFormHistory=[],window.simuladorVehiculoUltimoCampo={},window.addEventListener("beforeunload",function(){0<simuladorVehiculoFormHistory.length&&(window.dataLayer=window.dataLayer||[],console.log(simuladorVehiculoFormHistory.join(" \x3e ")),window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Abandonado",
+eventCategory:"Formulario | Abandono | Simulador | Veh\u00edculo",eventLabel:simuladorVehiculoFormHistory.join(" \x3e ")}));for(key in simuladorVehiculoUltimoCampo)window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador \u00daltimo Campo",eventCategory:"Formulario | Campo Simulador | Veh\u00edculo | "+key,eventLabel:simuladorVehiculoUltimoCampo[key]})}),document.querySelector(a+" .tipovehiculonuevo input[name\x3d'tipoVehiculo']").addEventListener("change",function(c){simuladorVehiculoFormHistory.push("Tipo Veh\u00edculo");
+c=document.querySelector(a+" .tipovehiculonuevo input[name\x3d'tipoVehiculo']").checked?"Nuevo":"Usado";simuladorVehiculoUltimoCampo["Tipo Veh\u00edculo"]=c;1==b&&window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador Campos",eventCategory:"Formulario | Campo Simulador | Veh\u00edculo | Tipo Veh\u00edculo",eventLabel:c})},!1),document.querySelector(a+" .tipovehiculousado input[name\x3d'tipoVehiculo']").addEventListener("change",function(c){simuladorVehiculoFormHistory.push("Tipo Veh\u00edculo");
+c=document.querySelector(a+" .tipovehiculousado input[name\x3d'tipoVehiculo']").checked?"Usado":"Nuevo";simuladorVehiculoUltimoCampo["Tipo Veh\u00edculo"]=c;1==b&&window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador Campos",eventCategory:"Formulario | Campo Simulador | Veh\u00edculo | Tipo Veh\u00edculo",eventLabel:c})},!1),document.querySelector(a+" input[name\x3d'precioVehiculo']").addEventListener("keyup",function(b){1!=document.querySelector(a+" input[name\x3d'precioVehiculo']").value.length&&
+2!=document.querySelector(a+" input[name\x3d'precioVehiculo']").value.length||simuladorVehiculoFormHistory.push("Precio Veh\u00edculo");simuladorVehiculoUltimoCampo["Precio Veh\u00edculo"]=document.querySelector(a+" input[name\x3d'precioVehiculo']").value},!1),document.querySelector(a+" input[name\x3d'precioVehiculo']").addEventListener("change",function(c){simuladorVehiculoFormHistory.push("Precio Veh\u00edculo");simuladorVehiculoUltimoCampo["Precio Veh\u00edculo"]=document.querySelector(a+" input[name\x3d'precioVehiculo']").value;
+1==b&&window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador Campos",eventCategory:"Formulario | Campo Simulador | Veh\u00edculo | Precio Veh\u00edculo",eventLabel:document.querySelector(a+" input[name\x3d'precioVehiculo']").value})},!1),document.querySelector(a+" input[name\x3d'montoFinanciado']").addEventListener("keyup",function(b){1!=document.querySelector(a+" input[name\x3d'montoFinanciado']").value.length&&2!=document.querySelector(a+" input[name\x3d'montoFinanciado']").value.length||
+simuladorVehiculoFormHistory.push("Monto Financiado");simuladorVehiculoUltimoCampo["Monto Financiado"]=document.querySelector(a+" input[name\x3d'montoFinanciado']").value},!1),document.querySelector(a+" input[name\x3d'montoFinanciado']").addEventListener("change",function(c){simuladorVehiculoFormHistory.push("Monto Financiado");simuladorVehiculoUltimoCampo["Monto Financiado"]=document.querySelector(a+" input[name\x3d'montoFinanciado']").value;1==b&&window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador Campos",
+eventCategory:"Formulario | Campo Simulador | Veh\u00edculo | Monto Financiado",eventLabel:document.querySelector(a+" input[name\x3d'montoFinanciado']").value})},!1),document.querySelector(a+" select[name\x3d'plazo']").addEventListener("change",function(c){simuladorVehiculoFormHistory.push("Plazo");simuladorVehiculoUltimoCampo.Plazo=document.querySelector(a+" select[name\x3d'plazo']").value;1==b&&window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Simulador Campos",eventCategory:"Formulario | Campo Simulador | Veh\u00edculo | Plazo",
+eventLabel:document.querySelector(a+" select[name\x3d'plazo']").value})},!1),document.querySelector(a+" input[type\x3d'submit']").addEventListener("click",function(a){simuladorVehiculoFormHistory.push("Solicitar");window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Finalizado",eventCategory:"Formulario | Finalizaci\u00f3n | Simulador | Veh\u00edculo",eventLabel:simuladorVehiculoFormHistory.join(" \x3e ")});simuladorVehiculoFormHistory=[]},!1))})();
+(function(){var b="form[name\x3d'solicitudVehiculoForm']";document.querySelector(b)&&(window.solicitudVehiculoFormHistory=[],window.addEventListener("beforeunload",function(){0<solicitudVehiculoFormHistory.length&&(window.dataLayer=window.dataLayer||[],console.log(solicitudVehiculoFormHistory.join(" \x3e ")),window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Abandonado",eventCategory:"Formulario | Abandono | Solicitud | Veh\u00edculo",eventLabel:solicitudVehiculoFormHistory.join(" \x3e ")}))}),
+document.querySelector(b+" input[name\x3d'nombre']").addEventListener("change",function(a){solicitudVehiculoFormHistory.push("Nombre")},!1),document.querySelector(b+" input[name\x3d'apellidos']").addEventListener("change",function(a){solicitudVehiculoFormHistory.push("Apellido")},!1),document.querySelector(b+" input[name\x3d'documento']").addEventListener("change",function(a){solicitudVehiculoFormHistory.push("Tipo Documento")},!1),document.querySelector(b+" input[name\x3d'numeroIdentificacion']").addEventListener("change",
+function(a){solicitudVehiculoFormHistory.push("No Documento")},!1),document.querySelector(b+" input[name\x3d'ciudad']").addEventListener("change",function(a){solicitudVehiculoFormHistory.push("Ciudad")},!1),document.querySelector(b+" input[name\x3d'email']").addEventListener("change",function(a){solicitudVehiculoFormHistory.push("Email")},!1),document.querySelector(b+" input[name\x3d'telefono']").addEventListener("change",function(a){solicitudVehiculoFormHistory.push("Tel\u00e9fono")},!1),document.querySelector(b+
+" input[name\x3d'celular']").addEventListener("change",function(a){solicitudVehiculoFormHistory.push("Celular")},!1),document.querySelector(b+" button[type\x3d'submit']").addEventListener("click",function(a){solicitudVehiculoFormHistory.push("Solicitar");window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"eventOcc",eventAction:"Formulario Finalizado",eventCategory:"Formulario | Finalizaci\u00f3n | Solicitud | Veh\u00edculo",eventLabel:solicitudVehiculoFormHistory.join(" \x3e ")});
+solicitudVehiculoFormHistory=[]},!1))})();</script></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="El reCAPTCHA caduca dentro de dos minutos" src="https://www.google.com/recaptcha/api2/bframe?hl=es&amp;v=uEf7E1417z6GNSkRx7AyL8K8&amp;k=6Le3ZBsUAAAAAEnArHOHKAc8tjIEsTPVpFjdNpgw" name="c-4yduf28sbhws" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div></body></html>

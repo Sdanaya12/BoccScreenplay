@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="complete credit form" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-10T14:11:08" hostname="DESKTOP-URHJBCP" time="34.995">
+<testsuite name="complete credit form" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-14T23:15:13" hostname="DANILAU" time="21.839">
   <properties/>
-  <testcase name="complete form" classname="complete credit form" time="34.995"/>
+  <testcase name="complete form" classname="complete credit form" time="21.839"/>
   <system-out><![CDATA[**** Validación del sistema ****
-Respuesta de Sistema: $1.453.415, Comparación: $1.453.415
+Respuesta de Sistema: $1.612.693, Comparación: $1.612.693
 ]]></system-out>
-  <system-err><![CDATA[may 10, 2022 9:11:09 AM org.openqa.selenium.remote.DesiredCapabilities chrome
-INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+  <system-err><![CDATA[sept. 14, 2023 6:15:14 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --disable-popup-blocking,--..., goog:chromeOptions: {args: [--disable-popup-blocking, --New-tab, --disable-download-notifica..., --start-maximized, --test-type, --ignore-certificate-errors, --allow-running-insecure-co..., --disable-translate, --always-authorize-plugins, --disable-extensions, --disable-dev-shm-usage], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
-Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 36300
+Starting ChromeDriver 117.0.5938.62 (25a7172909a4cba7355365cf424d7d7eb35231f4-refs/branch-heads/5938@{#1146}) on port 17707
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-may 10, 2022 9:11:13 AM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFORMACIÓN: Detected dialect: W3C
+sept. 14, 2023 6:15:16 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
   _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
